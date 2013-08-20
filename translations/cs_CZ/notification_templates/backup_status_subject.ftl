@@ -1,0 +1,1 @@
+[${application.name}, ${header}] <@l10n>Database backup status</@l10n>
