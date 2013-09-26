@@ -1,0 +1,1 @@
+<@l10n>Mailbox processing failure</@l10n>

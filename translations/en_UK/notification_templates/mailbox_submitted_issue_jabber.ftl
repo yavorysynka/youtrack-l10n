@@ -1,0 +1,1 @@
+<#include "mailbox_submitted_issue_email.ftl">

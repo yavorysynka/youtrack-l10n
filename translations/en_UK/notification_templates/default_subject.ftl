@@ -1,0 +1,2 @@
+<#ftl attributes={"description":"Default subject which is used in all email notifications related to an issue"}>
+[${application.name}, ${header}] <@l10n>Issue ${issue.getId()}: ${issue.summary}</@l10n>
