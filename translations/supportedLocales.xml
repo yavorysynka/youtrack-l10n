@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <locales>
     <localeEntry>
-        <name>Česky</name>
+        <name>Česky (community)</name>
         <locale>cs_CZ</locale>
     </localeEntry>
     <localeEntry>
-        <name>Polski</name>
+        <name>Polski (community)</name>
         <locale>pl_PL</locale>
     </localeEntry>
 </locales>
