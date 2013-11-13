@@ -1,6 +1,6 @@
 <#ftl attributes={"description":"Issue id and summary with \"Star\" tag and reporter information"}>
 <#escape x as x?html>
-    <div style="padding: 5px;
+    <div style="padding: 5px 0;
                 font-family: arial, Helvetica, sans-serif;">
         <div style="max-width: 160px;
                     word-wrap: break-word;
