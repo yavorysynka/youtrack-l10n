@@ -8,8 +8,4 @@
         <name>Polski</name>
         <locale>pl_PL</locale>
     </localeEntry>
-    <localeEntry>
-        <name>British</name>
-        <locale>en_UK</locale>
-    </localeEntry>
 </locales>
