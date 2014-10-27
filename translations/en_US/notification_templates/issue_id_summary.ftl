@@ -15,7 +15,11 @@
        href="${url}">
         ${issue.getId()}
     </a>
-    <a title="<#if issue.reporter==to><@l10n>Issue created by you</@l10n><#else><@l10n>Issue created by ${issue.reporter.getVisibleName()}</@l10n></#if>"
+    <a title="<#if issue.reporter==to>
+                <@l10n>Issue created by you</@l10n>
+              <#else>
+                <@l10n>Issue created by ${issue.reporter.getVisibleName()}</@l10n>
+              </#if>"
        style="font-size: 15px;
               color: #1466c6;
               text-decoration: none;"

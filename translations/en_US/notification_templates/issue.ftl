@@ -11,10 +11,10 @@
     <#include "links_panel.ftl">
     <#include "attachments_panel.ftl">
     <hr style = "height: 1px;
-                         max-height: 1px;
-                         border: 0;
-                         background: #d9d9d9;
-                         margin: 19px 0 15px;"/>
+                 max-height: 1px;
+                 border: 0;
+                 background: #d9d9d9;
+                 margin: 19px 0 15px;"/>
     <#include "fields_panel.ftl">
     <#if issue.comments?has_content>
         <div>

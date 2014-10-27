@@ -11,14 +11,16 @@
         <td style="${styles.event_value}">
             <#if unlinkedIssues?has_content>
                 <#list unlinkedIssues as unlinked>
-                    <a style="${styles.old_value}" href="${Utils.getUrl(unlinked)}">${unlinked.getId()} ${unlinked.summary}</a><#if unlinked_has_next || linkedIssues?has_content>,</#if>
+                    <a style="${styles.old_value}" href="${Utils.getUrl(unlinked)}">${unlinked.getId()} ${unlinked.summary}</a>
+                    <#if unlinked_has_next || linkedIssues?has_content><br/></#if>
                 </#list>
             </#if>
             <#if linkedIssues?has_content>
                 <#list linkedIssues as linked>
-                    <a style="${styles.new_value + "background:none;"} "href="${Utils.getUrl(linked)}">
+                    <a style="${styles.new_value + "background:none;"} " href="${Utils.getUrl(linked)}">
                         <span <#if linked.isResolved()>style="text-decoration: line-through; color: #888888;" </#if>>${linked.getId()}</span> ${linked.summary}
-                    </a><#if linked_has_next>,</#if>
+                    </a>
+                    <#if linked_has_next><br/></#if>
                 </#list>
             </#if>
         </td>

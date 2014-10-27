@@ -28,11 +28,11 @@
         </#if>
 
         <div style="display: inline-block; font-size: 85%;margin-top: 5px;">
-             <a style="color: #105CB6;" href="${Utils.getCommentUrl(comment)}">
-                 <@l10n>View</@l10n></a>
+            <a style="color: #105CB6;" href="${Utils.getCommentUrl(comment)}">
+                <@l10n>View</@l10n></a>
                 <#assign replyLink = Utils.getCommentReplyUrl(comment)>
                 <#if replyLink?has_content>
-                    <a style="color: #105CB6; margin-left: 5px;" href="${replyLink}">Reply</a>
+                    <a style="color: #105CB6; margin-left: 5px;" href="${replyLink}"><@l10n>Reply</@l10n></a>
                 </#if>
         </div>
     </td>

@@ -9,11 +9,11 @@
     <td style="${styles.event_title}">${title}</td>
     <td style="${styles.event_value}">
         <#if oldText?has_content>
-                        <@diff oldText=oldText
-        newText=newText
-        insStyle="${styles.new_value} word-wrap: break-word;"
-        delStyle="${styles.old_value} word-wrap: break-word;"/>
-                    <#else>
+            <@diff oldText=oldText
+                   newText=newText
+                   insStyle="${styles.new_value} word-wrap: break-word;"
+                   delStyle="${styles.old_value} word-wrap: break-word;"/>
+        <#else>
             <@wiki><#noescape>${newText}</#noescape></@wiki>
         </#if>
     </td>
