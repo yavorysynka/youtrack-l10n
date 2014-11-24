@@ -1,0 +1,2869 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Hub-Core\n"
+"Language: en\n"
+
+#: app/blocks/user-page/user-page__avatar.tpl.html
+msgid "(Email based avatar &mdash; <a href=\"http://www.gravatar.com\" class=\"ring-link\">gravatar.com</a>)"
+msgstr ""
+
+#: app/blocks/authmodule/jira/user-page__settings__jira__change-password.tpl.html
+msgid "<a class=\"ring-link\" href=\"{{ login.detail.changePasswordUrl }}\">Change password</a> in Atlassian Jira"
+msgstr ""
+
+#: app/blocks/authmodule/jba/user-page__settings__jba__change-password.tpl.html
+msgid "<a class=\"ring-link\" href=\"{{ login.detail.changePasswordUrl }}\">Change password</a> in JetBrains Account"
+msgstr ""
+
+#: app/blocks/authmodule/openid/authmodule__openid.js
+msgid "AOL"
+msgstr ""
+
+#. Element of create authmodule menu
+#: app/blocks/authmodule/openid/authmodule__openid.js
+msgid "AOL (OpenID)"
+msgstr ""
+
+#: app/blocks/group-page/group-page.tpl.html
+#: app/blocks/project-page/project-page.tpl.html
+#: app/blocks/user-page/user-page.tpl.html
+msgid "Access"
+msgstr ""
+
+#: app/blocks/hub-access/hub-access.tpl.html
+msgid "Access rights by"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Accessible with one permission"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Accessible with one role"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Accessible with {{ count }} permission"
+msgid_plural "Accessible with {{ count }} permissions"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Accessible with {{ count }} role"
+msgid_plural "Accessible with {{ count }} roles"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/authmodule-list/authmodule-list.tpl.html
+msgid "Accounts"
+msgstr ""
+
+#: app/blocks/user-list/user-list__toolbar.tpl.html
+msgid "Add / Remove selected users from group"
+msgstr ""
+
+#: app/blocks/authmodule-page/authmodule-page.tpl.html
+#: app/blocks/user-page/user-page__groups__empty.tpl.html
+#: app/blocks/user-page/user-page__groups__toolbar.tpl.html
+msgid "Add Group"
+msgstr ""
+
+#: app/blocks/project-page/project-page__resources__empty.tpl.html
+#: app/blocks/project-page/project-page__resources__toolbar.tpl.html
+#: app/blocks/project-page/project-page.js
+msgid "Add Resource"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Add Role in Project"
+msgstr ""
+
+#: app/blocks/group-page/group-page__members__empty.tpl.html
+#: app/blocks/group-page/group-page__members__toolbar.tpl.html
+#: app/blocks/group-page/group-page.js
+msgid "Add User"
+msgstr ""
+
+#. Label in add users to group menu
+#: app/blocks/groups-roster/groups-roster.js
+#: app/blocks/user-list/user-list__group-manager.js
+#: app/blocks/user-page/user-page__groups.js
+msgid "Add to"
+msgstr ""
+
+#: app/blocks/group-page/group-page__members__add-dialog.tpl.html
+msgid "Add user"
+msgstr ""
+
+#: app/blocks/hub-access/hub-access__add-permissions.tpl.html
+msgid "Add user to group &ldquo;{{ grantOption.group.name }}&rdquo;"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Added {{count}} user to group {{groupName}}"
+msgid_plural "Added {{count}} users to group {{groupName}}"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Added {{userName}} to group {{groupName}}"
+msgstr ""
+
+#: app/blocks/ssl-management/certificate-info.js
+msgid "Algorithm"
+msgstr ""
+
+#: app/blocks/user-list/user-list__merge-dialog.tpl.html
+msgid "All credentials of merged accounts will be preserved in the selected resulting account."
+msgstr ""
+
+#: app/blocks/app/app__routes.tpl.js
+msgid "All rights reserved"
+msgstr ""
+
+#: app/blocks/authmodule/github/authmodule-page__github.tpl.html
+#: app/blocks/authmodule/google/authmodule-page__google.tpl.html
+#: app/blocks/authmodule/jba/authmodule-page__jba.tpl.html
+#: app/blocks/authmodule/jira/authmodule-page__jira.tpl.html
+#: app/blocks/authmodule/ldap/authmodule-page__ldap.tpl.html
+#: app/blocks/authmodule/openid/authmodule-page__openid.tpl.html
+msgid "Allow user creation"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Allowed"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Already exists"
+msgstr ""
+
+#: app/blocks/hub-access/hub-access__add-permissions.tpl.html
+msgid "Already has permission &ldquo;{{ data.activePermission.name }}&rdquo; in &ldquo;{{ data.activeProject.name }}&rdquo;"
+msgstr ""
+
+#: app/blocks/service-list/service-list.tpl.html
+#: app/blocks/service-list/service-list__sidebar.tpl.html
+#: app/blocks/service-page/service-page__settings.tpl.html
+msgid "Application"
+msgstr ""
+
+#: app/blocks/approved-scopes/approved-scopes.js
+msgid "Approved Scopes"
+msgstr ""
+
+#: app/blocks/project-list/project-list__toolbar.tpl.html
+msgid "Archive"
+msgstr ""
+
+#: app/blocks/project-page/project-page__settings.tpl.html
+msgid "Archive it"
+msgstr ""
+
+#: app/blocks/hub-access/hub-access.js
+msgid "Are you sure you want to remove yourself from group “{{ name }}”?"
+msgstr ""
+
+#: app/blocks/hub-access/hub-access.js
+msgid "Are you sure you want to revoke your own role “{{ name }}”?"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Assign this role in the project to user/group/service"
+msgstr ""
+
+#. Type of authorization module
+#: app/blocks/authmodule/jira/authmodule__jira.js
+msgid "Atlassian Jira"
+msgstr ""
+
+#: app/blocks/event-page/event-page.tpl.html
+#: app/blocks/app/app__routes.tpl.js
+msgid "Audit Events"
+msgstr ""
+
+#: app/blocks/authmodule-page/authmodule-page.tpl.html
+#: app/blocks/app/app__routes.tpl.js
+msgid "Auth Modules"
+msgstr ""
+
+#: app/blocks/authmodule-list/authmodule-list.js
+msgid "Auth modules order updated"
+msgstr ""
+
+#: app/blocks/authmodule-page/authmodule-page.tpl.html
+msgid "Authentication"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Authentication failed"
+msgstr ""
+
+#: app/blocks/authmodule-page/authmodule-page__test-login-dialog.tpl.html
+msgid "Authentication successful"
+msgstr ""
+
+#: app/blocks/event-list/event-list.tpl.html
+#: app/blocks/event-list/event-list__sidebar.tpl.html
+#: app/blocks/event-page/event-page.tpl.html
+msgid "Author"
+msgstr ""
+
+#: app/blocks/authmodule/authmodule.js
+msgid "Authorization Module"
+msgstr ""
+
+#: app/blocks/authmodule-page/authmodule-page.tpl.html
+msgid "Auto-join groups"
+msgstr ""
+
+#: app/blocks/group-page/group-page__settings.tpl.html
+msgid "Auto-join is disabled"
+msgstr ""
+
+#: app/blocks/group-page/group-page__settings.tpl.html
+msgid "Auto-join is enabled"
+msgstr ""
+
+#: app/blocks/authmodule/openid/authmodule-page__openid.tpl.html
+msgid "Avatar"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Bad query"
+msgstr ""
+
+#: app/blocks/user-list/user-list__merge-dialog.tpl.html
+msgid "Ban"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Ban Guest"
+msgstr ""
+
+#: app/blocks/user-duplicates/user-duplicates__results.tpl.html
+msgid "Ban User"
+msgstr ""
+
+#: app/blocks/user-list/user-list__toolbar.tpl.html
+msgid "Ban selected users"
+msgstr ""
+
+#: app/blocks/user-page/user-page__general.tpl.html
+msgid "Ban user"
+msgstr ""
+
+#: app/blocks/app/app__routes.tpl.js
+msgid "Build"
+msgstr ""
+
+#. Type of authorization module
+#: app/blocks/authmodule/core/authmodule__core.js
+msgid "Built-in Authorization"
+msgstr ""
+
+#: app/blocks/authmodule/github/authmodule-page__github.tpl.html
+#: app/blocks/authmodule/google/authmodule-page__google.tpl.html
+#: app/blocks/authmodule/openid/authmodule-page__openid.tpl.html
+msgid "Button image"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Can {{ name }} in one project"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Can {{ name }} in {{ count }} project"
+msgid_plural "Can {{ name }} in {{ count }} projects"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Can't add group"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Can't add permission"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Can't add resource"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Can't add user"
+msgstr ""
+
+#: app/blocks/user-page/user-page__general.js
+msgid "Can't be empty"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Can't change contact"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Can't change password"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Can't change service secret"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Can't create resource"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Can't find"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Can't grant permission"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Can't load options"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Can't order Auth Modules"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Can't remove permission"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Can't reset permissions"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Can't set license"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Can't toggle flag"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Can't update field"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Can't update image"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Can't verify contact"
+msgstr ""
+
+#. This is confirm dialog OK and Cancel
+#. This is confirm dialog OK and Cancel
+#: app/blocks/authmodule-page/authmodule-page.js
+#: app/blocks/certificate-list/certificate-list__create-dialog.js
+#: app/blocks/change-password/change-password.js
+#: app/blocks/group-page/group-page.js
+#: app/blocks/hub-access/hub-access__add-permissions.js
+#: app/blocks/hub-resource/hub-resource__create.js
+#: app/blocks/keystore-list/keystore-list__create-dialog.js
+#: app/blocks/notify/Notify.js
+#: app/blocks/notify/notify.js
+#: app/blocks/service-page/service-page.js
+#: app/blocks/settings-page/settings-page.js
+#: app/blocks/user-list/user-list__create-dialog.js
+#: app/blocks/user-list/user-list__merge.js
+#: app/blocks/user-page/user-page__general.js
+msgid "Cancel"
+msgstr ""
+
+#: app/blocks/certificate-list/certificate-list__create-dialog.tpl.html
+msgid "Certificate Base64"
+msgstr ""
+
+#: app/blocks/certificate-list/certificate-list__create-dialog.tpl.html
+msgid "Certificate file"
+msgstr ""
+
+#: app/blocks/service-page/service-page__settings.tpl.html
+#: app/blocks/service-page/service-page__settings__change-secret.tpl.html
+msgid "Change"
+msgstr ""
+
+#: app/blocks/authmodule/core/user-page__settings__core__change-password.tpl.html
+#: app/blocks/change-password/change-password.tpl.html
+#: app/blocks/settings-page/settings-page.tpl.html
+#: app/blocks/change-password/change-password.js
+msgid "Change Password"
+msgstr ""
+
+#: app/blocks/authmodule/jba/authmodule-page__jba.tpl.html
+#: app/blocks/authmodule/jira/authmodule-page__jira.tpl.html
+msgid "Change Password URI"
+msgstr ""
+
+#: app/blocks/service-page/service-page.js
+msgid "Change Secret"
+msgstr ""
+
+#: app/blocks/service-page/service-page__settings__change-secret.tpl.html
+msgid "Change service secret"
+msgstr ""
+
+#: app/blocks/event-list/event-list__sidebar.tpl.html
+#: app/blocks/event-page/event-page.tpl.html
+msgid "Changes"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Classroom"
+msgstr ""
+
+#: app/blocks/authmodule/github/authmodule-page__github.tpl.html
+#: app/blocks/authmodule/google/authmodule-page__google.tpl.html
+msgid "Client ID"
+msgstr ""
+
+#: app/blocks/authmodule/github/authmodule-page__github.tpl.html
+#: app/blocks/authmodule/google/authmodule-page__google.tpl.html
+msgid "Client Secret"
+msgstr ""
+
+#: app/blocks/approved-scopes/approved-scopes.tpl.html
+#: app/blocks/refresh-token-list/refresh-token-list.tpl.html
+msgid "Client Service"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Commercial"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Company Logo"
+msgstr ""
+
+#: app/blocks/change-password/change-password.tpl.html
+#: app/blocks/service-page/service-page__settings__change-secret.tpl.html
+msgid "Confirm"
+msgstr ""
+
+#: app/blocks/user-list/user-list__create-dialog.js
+msgid "Create"
+msgstr ""
+
+#: app/blocks/user-list/user-list__create-dialog.tpl.html
+msgid "Create Account"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Create Auth Module"
+msgstr ""
+
+#: app/blocks/authmodule-list/authmodule-list.js
+msgid "Create Module"
+msgstr ""
+
+#: app/blocks/project-list/project-list__toolbar.tpl.html
+#: app/blocks/i18n/i18n__messages.js
+msgid "Create Project"
+msgstr ""
+
+#: app/blocks/role-list/role-list__toolbar.tpl.html
+#: app/blocks/i18n/i18n__messages.js
+msgid "Create Role"
+msgstr ""
+
+#: app/blocks/service-list/service-list__toolbar.tpl.html
+#: app/blocks/i18n/i18n__messages.js
+msgid "Create Service"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Create User"
+msgstr ""
+
+#: app/blocks/group-list/group-list__toolbar.tpl.html
+#: app/blocks/i18n/i18n__messages.js
+msgid "Create User Group"
+msgstr ""
+
+#: app/blocks/authmodule/github/authmodule-page__github.tpl.html
+#: app/blocks/authmodule/google/authmodule-page__google.tpl.html
+#: app/blocks/authmodule/jba/authmodule-page__jba.tpl.html
+#: app/blocks/authmodule/jira/authmodule-page__jira.tpl.html
+#: app/blocks/authmodule/ldap/authmodule-page__ldap.tpl.html
+#: app/blocks/authmodule/openid/authmodule-page__openid.tpl.html
+msgid "Create Users"
+msgstr ""
+
+#: app/blocks/hub-access/hub-access__add-permissions.tpl.html
+msgid "Create group &ldquo;{{ grantOption.groupName }}&rdquo; and add the user to it"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Create new authentication module"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Create new project"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Create new role"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Create new user groups"
+msgstr ""
+
+#: app/blocks/user-page/user-page__general.js
+msgid "Current"
+msgstr ""
+
+#: app/blocks/authmodule/ldap/authmodule-page__ldap.tpl.html
+msgid "DN Transform"
+msgstr ""
+
+#: app/blocks/keystore-list/keystore-list__create-dialog.tpl.html
+msgid "Data Base64"
+msgstr ""
+
+#: app/blocks/user-page/user-page__general.js
+msgid "Default Avatar"
+msgstr ""
+
+#: app/blocks/service-page/service-page__roles.tpl.html
+msgid "Default roles provided by the service {{ service.name }}"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Delete Auth Module"
+msgstr ""
+
+#: app/blocks/app/app.js
+msgid "Delete Image"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Delete Project"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Delete Role"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Delete Service"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Delete User Group"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Delete auth module"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Delete auth module {{ name }}?"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Delete certificate {{ name }}?"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Delete group {{ name }}?"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Delete project"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Delete project {{ name }}?"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Delete role"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Delete role {{ name }}?"
+msgstr ""
+
+#: app/blocks/approved-scopes/approved-scopes__toolbar.tpl.html
+msgid "Delete selected approved scopes"
+msgstr ""
+
+#: app/blocks/certificate-list/certificate-list__toolbar.tpl.html
+msgid "Delete selected certificates"
+msgstr ""
+
+#: app/blocks/group-list/group-list__toolbar.tpl.html
+msgid "Delete selected groups"
+msgstr ""
+
+#: app/blocks/authmodule-list/authmodule-list__toolbar.tpl.html
+msgid "Delete selected modules"
+msgstr ""
+
+#: app/blocks/project-list/project-list__toolbar.tpl.html
+msgid "Delete selected projects"
+msgstr ""
+
+#: app/blocks/refresh-token-list/refresh-token-list__toolbar.tpl.html
+msgid "Delete selected refresh tokens"
+msgstr ""
+
+#: app/blocks/role-list/role-list__toolbar.tpl.html
+msgid "Delete selected roles"
+msgstr ""
+
+#: app/blocks/service-list/service-list__toolbar.tpl.html
+msgid "Delete selected services"
+msgstr ""
+
+#: app/blocks/keystore-list/keystore-list__toolbar.tpl.html
+msgid "Delete selected stores"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Delete service"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Delete service {{ name }}?"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Delete store {{ name }}?"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Delete user groups"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Delete {{ count }} approved scope?"
+msgid_plural "Delete {{ count }} approved scopes?"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Delete {{ count }} auth module?"
+msgid_plural "Delete {{ count }} auth modules?"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Delete {{ count }} certificate?"
+msgid_plural "Delete {{ count }} certificates?"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Delete {{ count }} group?"
+msgid_plural "Delete {{ count }} groups?"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Delete {{ count }} project?"
+msgid_plural "Delete {{ count }} projects?"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Delete {{ count }} refresh token?"
+msgid_plural "Delete {{ count }} refresh tokens?"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Delete {{ count }} role?"
+msgid_plural "Delete {{ count }} roles?"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Delete {{ count }} service?"
+msgid_plural "Delete {{ count }} services?"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Delete {{ count }} store?"
+msgid_plural "Delete {{ count }} stores?"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/authmodule/github/authmodule-page__github.tpl.html
+#: app/blocks/authmodule/google/authmodule-page__google.tpl.html
+#: app/blocks/authmodule/jba/authmodule-page__jba.tpl.html
+#: app/blocks/authmodule/jira/authmodule-page__jira.tpl.html
+#: app/blocks/authmodule/ldap/authmodule-page__ldap.tpl.html
+#: app/blocks/authmodule/openid/authmodule-page__openid.tpl.html
+msgid "Deny user creation"
+msgstr ""
+
+#: app/blocks/group-page/group-page__settings.tpl.html
+#: app/blocks/project-page/project-page__settings.tpl.html
+#: app/blocks/role-page/role-page.tpl.html
+msgid "Description"
+msgstr ""
+
+#: app/blocks/error-page/error-page__server-error.tpl.html
+msgid "Despite our best efforts, the server is not working properly."
+msgstr ""
+
+#: app/blocks/error-page/error-page__not-found.tpl.html
+msgid "Despite our best efforts, there's nothing here to show you with the URL you requested. Most likely the URL is invalid or you don't have permissions to access the page."
+msgstr ""
+
+#: app/blocks/authmodule-list/authmodule-list__toolbar.tpl.html
+#: app/blocks/authmodule/core/authmodule-page__core.tpl.html
+#: app/blocks/role-page/role-page__permissions.tpl.html
+#: app/blocks/settings-page/settings-page.tpl.html
+#: app/blocks/role-page/role-page.js
+msgid "Disable"
+msgstr ""
+
+#: app/blocks/role-page/role-page__permissions.tpl.html
+msgid "Disable All"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Disable Email"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Disable Jabber"
+msgstr ""
+
+#: app/blocks/authmodule/core/authmodule-page__core.tpl.html
+msgid "Disable ReCaptcha"
+msgstr ""
+
+#: app/blocks/role-page/role-page.js
+msgid "Disable all permissions?"
+msgstr ""
+
+#: app/blocks/group-page/group-page__settings.tpl.html
+msgid "Disable auto-join"
+msgstr ""
+
+#: app/blocks/user-page/user-page__general.tpl.html
+msgid "Disable login to Hub with these credentials"
+msgstr ""
+
+#: app/blocks/authmodule-page/authmodule-page.tpl.html
+msgid "Disable module"
+msgstr ""
+
+#: app/blocks/authmodule/core/authmodule-page__core.tpl.html
+#: app/blocks/authmodule/jba/authmodule-page__jba.tpl.html
+msgid "Disable registration"
+msgstr ""
+
+#: app/blocks/role-page/role-page__permissions.tpl.html
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Disabled"
+msgstr ""
+
+#: app/blocks/error-page/error-page.tpl.html
+msgid "Disconnected"
+msgstr ""
+
+#: app/blocks/user-list/user-list__create-dialog.tpl.html
+msgid "Display Name"
+msgstr ""
+
+#: app/blocks/service-list/service-list__toolbar.tpl.html
+#: app/blocks/service-page/service-page__settings.tpl.html
+msgid "Distrust"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Do you want to remove resource {{ name }}?"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Do you want to remove {{ count }} resource from the project?"
+msgid_plural "Do you want to remove {{ count }} resources from the project?"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/app/app.js
+msgid "Doesn't match the pattern"
+msgstr ""
+
+#: app/blocks/app/app.js
+msgid "Doesn't match the value above"
+msgstr ""
+
+#: app/blocks/user-duplicates/user-duplicates__results.tpl.html
+msgid "Don't Merge"
+msgstr ""
+
+#: app/blocks/event-list/event-list__toolbar.tpl.html
+msgid "Download as .xml"
+msgstr ""
+
+#: app/blocks/user-duplicates/user-duplicates.tpl.html
+msgid "Duplicates"
+msgstr ""
+
+#: app/blocks/app/app__routes.tpl.js
+msgid "Duplicates | Users"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "EAP builds only"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Edit License"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Edit project properties and content. Add/remove resources."
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Edit user name, edit/create/delete user details, ban or merge user accounts"
+msgstr ""
+
+#: app/blocks/authmodule/core/authmodule-page__test-login-dialog__success__core.tpl.html
+#: app/blocks/authmodule/jba/authmodule-page__test-login-dialog__success__jba.tpl.html
+#: app/blocks/authmodule/jira/authmodule-page__test-login-dialog__success__jira.tpl.html
+#: app/blocks/authmodule/ldap/authmodule-page__test-login-dialog__success__ldap.tpl.html
+#: app/blocks/authmodule/openid/authmodule-page__openid.tpl.html
+#: app/blocks/user-list/user-list.tpl.html
+#: app/blocks/user-list/user-list__create-dialog.tpl.html
+#: app/blocks/user-list/user-list__merge-dialog.tpl.html
+#: app/blocks/user-list/user-list__sidebar.tpl.html
+#: app/blocks/user-page/user-page__general.tpl.html
+msgid "Email"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Email notifications are disabled"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Email notifications are enabled"
+msgstr ""
+
+#: app/blocks/user-list/user-list__create-dialog.tpl.html
+msgid "Emails"
+msgstr ""
+
+#: app/blocks/authmodule-list/authmodule-list__toolbar.tpl.html
+#: app/blocks/authmodule/core/authmodule-page__core.tpl.html
+#: app/blocks/role-page/role-page__permissions.tpl.html
+#: app/blocks/settings-page/settings-page.tpl.html
+#: app/blocks/role-page/role-page.js
+msgid "Enable"
+msgstr ""
+
+#: app/blocks/role-page/role-page__permissions.tpl.html
+msgid "Enable All"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Enable Email"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Enable Jabber"
+msgstr ""
+
+#: app/blocks/authmodule/core/authmodule-page__core.tpl.html
+msgid "Enable ReCaptcha"
+msgstr ""
+
+#: app/blocks/role-page/role-page.js
+msgid "Enable all permissions?"
+msgstr ""
+
+#: app/blocks/group-page/group-page__settings.tpl.html
+msgid "Enable auto-join"
+msgstr ""
+
+#: app/blocks/authmodule-page/authmodule-page.tpl.html
+msgid "Enable module"
+msgstr ""
+
+#: app/blocks/authmodule/core/authmodule-page__core.tpl.html
+#: app/blocks/authmodule/jba/authmodule-page__jba.tpl.html
+msgid "Enable registration"
+msgstr ""
+
+#: app/blocks/role-page/role-page__permissions.tpl.html
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Enabled"
+msgstr ""
+
+#: app/blocks/service-page/service-page__permissions.tpl.html
+#: app/blocks/service-page/service-page__permissions__sidebar.tpl.html
+msgid "Entity Type"
+msgstr ""
+
+#: app/blocks/hub-access/hub-access.js
+msgid "Error:"
+msgstr ""
+
+#: app/blocks/event-list/event-list.tpl.html
+msgid "Event"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Expiration Date"
+msgstr ""
+
+#: app/blocks/approved-scopes/approved-scopes.tpl.html
+#: app/blocks/approved-scopes/approved-scopes__sidebar.tpl.html
+msgid "Expires"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Failed"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Failed to find user duplicates"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Failed to merge user duplicates"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Failed to remove duplicate user cluster"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Failed to remove user from cluster"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Failed to update duplicate user cluster"
+msgstr ""
+
+#: app/blocks/app/app__routes.tpl.js
+msgid "Feedback"
+msgstr ""
+
+#: app/blocks/authmodule/ldap/authmodule-page__ldap.tpl.html
+msgid "Filter"
+msgstr ""
+
+#: app/blocks/user-list/user-list__toolbar.tpl.html
+msgid "Find Duplicates"
+msgstr ""
+
+#: app/blocks/user-list/user-list__toolbar.tpl.html
+msgid "Find duplicate user accounts"
+msgstr ""
+
+#: app/blocks/authmodule/jba/authmodule-page__test-login-dialog__success__jba.tpl.html
+#: app/blocks/authmodule/openid/authmodule-page__openid.tpl.html
+msgid "First Name"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "For {{ count }} reason"
+msgid_plural "For {{ count }} reasons"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Forbidden"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Free"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Free Updates Till"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "From"
+msgstr ""
+
+#: app/blocks/authmodule/ldap/authmodule-page__test-login-dialog__success__ldap.tpl.html
+#: app/blocks/authmodule/openid/authmodule-page__openid.tpl.html
+#: app/blocks/user-list/user-list__sidebar.tpl.html
+#: app/blocks/user-page/user-page__general.tpl.html
+msgid "Full Name"
+msgstr ""
+
+#: app/blocks/user-page/user-page.tpl.html
+msgid "General"
+msgstr ""
+
+#: app/blocks/service-page/service-page__settings__change-secret.tpl.html
+msgid "Generate"
+msgstr ""
+
+#. Type of authorization module
+#. Element of create authmodule menu
+#: app/blocks/authmodule/github/authmodule__github.js
+msgid "GitHub"
+msgstr ""
+
+#: app/blocks/service-page/service-page__permissions__sidebar.tpl.html
+msgid "Global permission"
+msgstr ""
+
+#: app/blocks/role-page/role-page__permissions.tpl.html
+#: app/blocks/service-page/service-page__roles.tpl.html
+msgid "Global permissions"
+msgstr ""
+
+#: app/blocks/error-page/error-page__message.tpl.html
+msgid "Go back home"
+msgstr ""
+
+#. Type of authorization module
+#. Element of create authmodule menu
+#: app/blocks/authmodule/google/authmodule__google.js
+msgid "Google"
+msgstr ""
+
+#: app/blocks/hub-access/hub-access__add-permissions.tpl.html
+msgid "Grant"
+msgstr ""
+
+#: app/blocks/hub-access/hub-access.tpl.html
+#: app/blocks/hub-access/hub-access__add-permissions.js
+msgid "Grant Access"
+msgstr ""
+
+#: app/blocks/hub-access/hub-access__add-permissions.tpl.html
+msgid "Grant role &ldquo;{{ grantOption.role.name }}&rdquo; in project &ldquo;{{ grantOption.project.name }}&rdquo;"
+msgstr ""
+
+#: app/blocks/user-page/user-page__general.js
+msgid "Gravatar"
+msgstr ""
+
+#: app/blocks/service-list/service-list__sidebar.tpl.html
+#: app/blocks/service-page/service-page__settings.tpl.html
+msgid "Group URI Pattern"
+msgstr ""
+
+#: app/blocks/group-page/group-page.tpl.html
+#: app/blocks/user-list/user-list.tpl.html
+#: app/blocks/user-page/user-page.tpl.html
+#: app/blocks/app/app__routes.tpl.js
+msgid "Groups"
+msgstr ""
+
+#. Type of authorization module
+#: app/blocks/authmodule/core/authmodule__core.js
+msgid "Guest Authorization"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Has access to one project"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Has access to {{ count }} project"
+msgid_plural "Has access to {{ count }} projects"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Has one permission"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Has one role"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Has one role in project {{ name }}"
+msgstr ""
+
+#: app/blocks/hub-access/hub-access__reason-messages.js
+msgid "Has role “{{ role }}”"
+msgstr ""
+
+#: app/blocks/hub-access/hub-access__reason-messages.js
+msgid "Has role “{{ role }}” in global project"
+msgstr ""
+
+#: app/blocks/hub-access/hub-access__reason-messages.js
+msgid "Has some role"
+msgstr ""
+
+#: app/blocks/hub-access/hub-access__reason-messages.js
+msgid "Has some role in global project"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Has {{ count }} permission"
+msgid_plural "Has {{ count }} permissions"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Has {{ count }} role"
+msgid_plural "Has {{ count }} roles"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Has {{ count }} role in project {{ name }}"
+msgid_plural "Has {{ count }} roles in project {{ name }}"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/app/app__routes.tpl.js
+msgid "Help"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Hidden"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Hide"
+msgstr ""
+
+#: app/blocks/table-list/table-list__sidebar-button.tpl.html
+msgid "Hide Details"
+msgstr ""
+
+#: app/blocks/service-list/service-list__create-dialog.tpl.html
+#: app/blocks/service-list/service-list__sidebar.tpl.html
+#: app/blocks/service-page/service-page__resources.tpl.html
+#: app/blocks/service-page/service-page__resources__sidebar.tpl.html
+#: app/blocks/service-page/service-page__settings.tpl.html
+msgid "Home URL"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Host"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Hub Motto"
+msgstr ""
+
+#: app/blocks/project-page/project-page__resources.tpl.html
+#: app/blocks/service-page/service-page__resources.tpl.html
+#: app/blocks/service-page/service-page__settings.tpl.html
+msgid "ID"
+msgstr ""
+
+#: app/blocks/user-page/user-page__general.js
+msgid "If you revoke these authorization credentials, then {{name}} will no longer be able to log in with these credentials anymore. Proceed?"
+msgstr ""
+
+#: app/blocks/group-page/group-page__settings.tpl.html
+msgid "Image"
+msgstr ""
+
+#: app/blocks/certificate-list/certificate-list__create-dialog.js
+#: app/blocks/keystore-list/keystore-list__create-dialog.js
+msgid "Import"
+msgstr ""
+
+#: app/blocks/keystore-list/keystore-list__toolbar.tpl.html
+msgid "Import Key Store"
+msgstr ""
+
+#: app/blocks/keystore-list/keystore-list__create-dialog.tpl.html
+msgid "Import New Key Store"
+msgstr ""
+
+#: app/blocks/certificate-list/certificate-list__create-dialog.tpl.html
+msgid "Import New Trusted Certificate"
+msgstr ""
+
+#: app/blocks/certificate-list/certificate-list__toolbar.tpl.html
+msgid "Import Trusted Certificate"
+msgstr ""
+
+#: app/blocks/hub-access/hub-access__add-permissions.tpl.html
+msgid "In Project"
+msgstr ""
+
+#: app/blocks/user-list/user-list__create-dialog.js
+msgid "Invite"
+msgstr ""
+
+#: app/blocks/user-list/user-list__create-dialog.tpl.html
+msgid "Invite Users"
+msgstr ""
+
+#: app/blocks/hub-access/hub-access__reason-messages.js
+msgid "Is a member of some group"
+msgstr ""
+
+#: app/blocks/hub-access/hub-access__reason-messages.js
+msgid "Is a member of “{{ group }}”"
+msgstr ""
+
+#: app/blocks/hub-access/hub-access__reason-messages.js
+msgid "Is a subgroup of some group"
+msgstr ""
+
+#: app/blocks/hub-access/hub-access__reason-messages.js
+msgid "Is a subgroup of “{{ group }}”"
+msgstr ""
+
+#: app/blocks/hub-access/hub-access__add-permissions.tpl.html
+msgid "Is already &ldquo;{{ data.activeRole.name }}&rdquo; in &ldquo;{{ data.activeProject.name }}&rdquo;"
+msgstr ""
+
+#: app/blocks/app/app.js
+msgid "Is invalid"
+msgstr ""
+
+#: app/blocks/app/app.js
+msgid "Is not unique"
+msgstr ""
+
+#: app/blocks/app/app.js
+msgid "Is too long"
+msgstr ""
+
+#: app/blocks/app/app.js
+msgid "Is too short"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Is {{ name }} in one project"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Is {{ name }} in {{ count }} project"
+msgid_plural "Is {{ name }} in {{ count }} projects"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/certificate-list/certificate-list.tpl.html
+#: app/blocks/keystore-list/keystore-list.tpl.html
+#: app/blocks/ssl-management/certificate-info.js
+msgid "Issued By"
+msgstr ""
+
+#: app/blocks/certificate-list/certificate-list.tpl.html
+#: app/blocks/keystore-list/keystore-list.tpl.html
+#: app/blocks/ssl-management/certificate-info.js
+msgid "Issued To"
+msgstr ""
+
+#: app/blocks/search-error/search-error_empty.tpl.html
+msgid "It may also mean that you have insufficient access permissions"
+msgstr ""
+
+#: app/blocks/authmodule/core/authmodule-page__test-login-dialog__success__core.tpl.html
+#: app/blocks/settings-page/settings-page.tpl.html
+#: app/blocks/user-list/user-list__merge-dialog.tpl.html
+#: app/blocks/user-page/user-page__general.tpl.html
+msgid "Jabber"
+msgstr ""
+
+#: app/blocks/user-list/user-list__sidebar.tpl.html
+msgid "Jabber Account"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Jabber notifications are disabled"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Jabber notifications are enabled"
+msgstr ""
+
+#. Type of authorization module
+#: app/blocks/authmodule/jba/authmodule__jba.js
+msgid "JetBrains Account"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "JetPass Low-level Administration"
+msgstr ""
+
+#: app/blocks/project-list/project-list.tpl.html
+#: app/blocks/project-list/project-list__create-dialog.tpl.html
+#: app/blocks/project-page/project-page__settings.tpl.html
+#: app/blocks/service-page/service-page__permissions.tpl.html
+#: app/blocks/service-page/service-page__permissions__sidebar.tpl.html
+msgid "Key"
+msgstr ""
+
+#. Type of authorization module
+#: app/blocks/authmodule/ldap/authmodule__ldap.js
+msgid "LDAP"
+msgstr ""
+
+#: app/blocks/authmodule/jba/authmodule-page__test-login-dialog__success__jba.tpl.html
+#: app/blocks/authmodule/openid/authmodule-page__openid.tpl.html
+msgid "Last Name"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "License"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page__license-dialog.tpl.html
+msgid "License Key"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+#: app/blocks/settings-page/settings-page__license-dialog.tpl.html
+msgid "License Name"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "License Type"
+msgstr ""
+
+#: app/index.html
+msgid "Loading"
+msgstr ""
+
+#: app/blocks/menu/menu.js
+msgid "Log in"
+msgstr ""
+
+#: app/blocks/menu/menu.js
+msgid "Log out"
+msgstr ""
+
+#: app/blocks/authmodule-page/authmodule-page__test-login-dialog.tpl.html
+#: app/blocks/authmodule/jba/authmodule-page__test-login-dialog__success__jba.tpl.html
+#: app/blocks/authmodule/jira/authmodule-page__test-login-dialog__success__jira.tpl.html
+#: app/blocks/authmodule/ldap/authmodule-page__test-login-dialog__success__ldap.tpl.html
+#: app/blocks/group-page/group-page__members.tpl.html
+#: app/blocks/user-list/user-list.tpl.html
+#: app/blocks/user-list/user-list__merge-dialog.tpl.html
+#: app/blocks/user-page/user-page__general.tpl.html
+msgid "Login"
+msgstr ""
+
+#: app/blocks/user-page/user-page__general.tpl.html
+msgid "Logins"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Manage low-level administrative actions like integrations with third-party services and database backup"
+msgstr ""
+
+#: app/blocks/authmodule/jba/authmodule-page__jba.tpl.html
+#: app/blocks/authmodule/jira/authmodule-page__jira.tpl.html
+msgid "May be absolute or relative to the server URL"
+msgstr ""
+
+#: app/blocks/group-page/group-page.tpl.html
+msgid "Members"
+msgstr ""
+
+#: app/blocks/group-page/group-page__members.tpl.html
+msgid "Membership"
+msgstr ""
+
+#: app/blocks/user-duplicates/user-duplicates__results.tpl.html
+msgid "Merge"
+msgstr ""
+
+#: app/blocks/user-duplicates/user-duplicates__results.tpl.html
+msgid "Merge All"
+msgstr ""
+
+#: app/blocks/user-duplicates/user-duplicates__results.tpl.html
+msgid "Merge Page"
+msgstr ""
+
+#: app/blocks/user-list/user-list__merge.js
+msgid "Merge Users"
+msgstr ""
+
+#: app/blocks/user-duplicates/user-duplicates__results.tpl.html
+msgid "Merge all found sets of duplicate user accounts"
+msgstr ""
+
+#: app/blocks/user-list/user-list__toolbar.tpl.html
+msgid "Merge selected users"
+msgstr ""
+
+#: app/blocks/user-duplicates/user-duplicates__results.tpl.html
+msgid "Merge sets of duplicate user accounts on this page"
+msgstr ""
+
+#: app/blocks/user-list/user-list__merge-dialog.tpl.html
+msgid "Merge users"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Merged {{ count }} user"
+msgid_plural "Merged {{ count }} users"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Modify properties of a service. Modify (create/update/delete) service resources, permissions, default roles"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Modify properties of a user group. Add/remove subgroups (Update User Group for parent and child groups is required). Is required (with Read User) to modify group membership"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Modify properties of an auth module"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Modify role properties and a set of role permissions"
+msgstr ""
+
+#: app/blocks/authmodule-page/authmodule-page.tpl.html
+msgid "Module is disabled"
+msgstr ""
+
+#: app/blocks/authmodule-page/authmodule-page.tpl.html
+msgid "Module is enabled"
+msgstr ""
+
+#: app/blocks/menu/menu.tpl.html
+msgid "More Settings"
+msgstr ""
+
+#: app/blocks/authmodule-list/authmodule-list.tpl.html
+#: app/blocks/authmodule-list/authmodule-list__create-dialog.tpl.html
+#: app/blocks/authmodule-page/authmodule-page.tpl.html
+#: app/blocks/certificate-list/certificate-list.tpl.html
+#: app/blocks/certificate-list/certificate-list__create-dialog.tpl.html
+#: app/blocks/certificate-page/certificate-page.tpl.html
+#: app/blocks/group-list/group-list.tpl.html
+#: app/blocks/group-list/group-list__create-dialog.tpl.html
+#: app/blocks/group-page/group-page__members.tpl.html
+#: app/blocks/group-page/group-page__settings.tpl.html
+#: app/blocks/keystore-list/keystore-list.tpl.html
+#: app/blocks/keystore-list/keystore-list__create-dialog.tpl.html
+#: app/blocks/keystore-page/keystore-page.tpl.html
+#: app/blocks/project-list/project-list.tpl.html
+#: app/blocks/project-list/project-list__create-dialog.tpl.html
+#: app/blocks/project-page/project-page__resources.tpl.html
+#: app/blocks/project-page/project-page__settings.tpl.html
+#: app/blocks/role-list/role-list.tpl.html
+#: app/blocks/role-list/role-list__create-dialog.tpl.html
+#: app/blocks/role-page/role-page.tpl.html
+#: app/blocks/service-list/service-list.tpl.html
+#: app/blocks/service-list/service-list__create-dialog.tpl.html
+#: app/blocks/service-page/service-page__permissions.tpl.html
+#: app/blocks/service-page/service-page__resources.tpl.html
+#: app/blocks/service-page/service-page__settings.tpl.html
+#: app/blocks/user-list/user-list.tpl.html
+#: app/blocks/user-list/user-list__merge-dialog.tpl.html
+#: app/blocks/user-page/user-page__groups.tpl.html
+msgid "Name"
+msgstr ""
+
+#: app/blocks/group-list/group-list__toolbar.tpl.html
+msgid "Nest Group Under"
+msgstr ""
+
+#: app/blocks/authmodule-list/authmodule-list__create-dialog.tpl.html
+#: app/blocks/authmodule-list/authmodule-list__toolbar.tpl.html
+msgid "New Module"
+msgstr ""
+
+#: app/blocks/change-password/change-password.tpl.html
+msgid "New Password"
+msgstr ""
+
+#: app/blocks/project-list/project-list__toolbar.tpl.html
+msgid "New Project"
+msgstr ""
+
+#: app/blocks/role-list/role-list__create-dialog.tpl.html
+#: app/blocks/role-list/role-list__toolbar.tpl.html
+msgid "New Role"
+msgstr ""
+
+#: app/blocks/service-page/service-page__settings__change-secret.tpl.html
+msgid "New Secret"
+msgstr ""
+
+#: app/blocks/service-list/service-list__create-dialog.tpl.html
+#: app/blocks/service-list/service-list__toolbar.tpl.html
+msgid "New Service"
+msgstr ""
+
+#: app/blocks/user-list/user-list__create-dialog.tpl.html
+#: app/blocks/user-list/user-list__toolbar.tpl.html
+msgid "New User"
+msgstr ""
+
+#: app/blocks/group-list/group-list__create-dialog.tpl.html
+#: app/blocks/group-list/group-list__toolbar.tpl.html
+msgid "New User Group"
+msgstr ""
+
+#: app/blocks/service-page/service-page__roles.tpl.html
+msgid "No Default Roles"
+msgstr ""
+
+#: app/blocks/user-page/user-page__groups__empty.tpl.html
+msgid "No Groups"
+msgstr ""
+
+#: app/blocks/ssl-management/ssl-key-picker.js
+msgid "No Key"
+msgstr ""
+
+#: app/blocks/hub-access/hub-access.tpl.html
+#: app/blocks/service-page/service-page__permissions__empty.tpl.html
+msgid "No Permissions"
+msgstr ""
+
+#: app/blocks/project-page/project-page__resources__empty.tpl.html
+#: app/blocks/service-page/service-page__resources__empty.tpl.html
+msgid "No Resources"
+msgstr ""
+
+#: app/blocks/group-page/group-page__members__empty.tpl.html
+msgid "No Users"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "No certificate is selected"
+msgstr ""
+
+#: app/blocks/app/app.js
+msgid "No image file was selected"
+msgstr ""
+
+#: app/blocks/hub-resource/hub-resource__bulk.js
+msgid "No item is selected"
+msgstr ""
+
+#: app/blocks/search-error/search-error_empty.tpl.html
+#: app/blocks/user-duplicates/user-duplicates__results.tpl.html
+msgid "No matches for your search request were found"
+msgstr ""
+
+#: app/blocks/group-page/group-page__members__add-dialog.tpl.html
+#: app/blocks/hub-access/hub-access__add-permissions.tpl.html
+#: app/blocks/project-page/project-page__resources__add-dialog.tpl.html
+#: app/blocks/group-picker/group-picker.js
+msgid "No matches found"
+msgstr ""
+
+#: app/blocks/project-page/project-page.js
+msgid "No resource is selected"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "No service is selected"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "No store is selected"
+msgstr ""
+
+#: app/blocks/user-list/user-list__group-manager.js
+msgid "No user is selected"
+msgstr ""
+
+#: app/blocks/error-page/error-page.tpl.html
+msgid "No, no one's there."
+msgstr ""
+
+#: app/blocks/project-page/project-page.tpl.html
+msgid "Nobody has access permissions granted in any connected service for the project."
+msgstr ""
+
+#: app/blocks/error-page/error-page__not-found.tpl.html
+msgid "Nope, can't find it!"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Notification settings test failed"
+msgstr ""
+
+#. This is confirm dialog OK and Cancel
+#. This is confirm dialog OK and Cancel
+#: app/blocks/notify/Notify.js
+#: app/blocks/notify/notify.js
+msgid "OK"
+msgstr ""
+
+#: app/blocks/error-page/error-page__server-error.tpl.html
+msgid "Oh-oh... Something went seriously wrong"
+msgstr ""
+
+#: app/blocks/error-page/error-page.tpl.html
+msgid "Oh-oh... Something went seriously wrong."
+msgstr ""
+
+#: app/blocks/change-password/change-password.tpl.html
+msgid "Old Password"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "One user can {{ name }}"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "One user has access"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "One user has role {{ name }}"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Open Source"
+msgstr ""
+
+#. Type of authorization module
+#: app/blocks/authmodule/openid/authmodule__openid.js
+msgid "OpenID Provider"
+msgstr ""
+
+#: app/blocks/service-page/service-page__permissions.tpl.html
+#: app/blocks/service-page/service-page__permissions__sidebar.tpl.html
+msgid "Operation"
+msgstr ""
+
+#: app/blocks/group-page/group-page__members.tpl.html
+#: app/blocks/user-list/user-list.tpl.html
+msgid "Own Roles"
+msgstr ""
+
+#: app/blocks/authmodule-page/authmodule-page__test-login-dialog.tpl.html
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Password"
+msgstr ""
+
+#: app/blocks/authmodule/core/authmodule-page__core.tpl.html
+msgid "Password Restore"
+msgstr ""
+
+#: app/blocks/authmodule/core/authmodule-page__core.tpl.html
+msgid "Password restore is disabled"
+msgstr ""
+
+#: app/blocks/authmodule/core/authmodule-page__core.tpl.html
+msgid "Password restore is enabled"
+msgstr ""
+
+#: app/blocks/service-page/service-page__permissions__sidebar.tpl.html
+msgid "Per project permission"
+msgstr ""
+
+#: app/blocks/hub-access/hub-access__add-permissions.tpl.html
+#: app/blocks/hub-access/hub-access__mode-trait.js
+msgid "Permission"
+msgstr ""
+
+#: app/blocks/service-page/service-page__permissions.tpl.html
+#: app/blocks/service-page/service-page__roles.tpl.html
+msgid "Permission is global"
+msgstr ""
+
+#: app/blocks/role-list/role-list.tpl.html
+#: app/blocks/role-page/role-page__permissions.tpl.html
+#: app/blocks/service-list/service-list.tpl.html
+#: app/blocks/service-page/service-page.tpl.html
+#: app/blocks/hub-access/hub-access__mode-trait.js
+msgid "Permissions"
+msgstr ""
+
+#: app/blocks/project-page/project-page__settings.tpl.html
+#: app/blocks/service-page/service-page__settings.tpl.html
+#: app/blocks/user-page/user-page__general.tpl.html
+msgid "Picture"
+msgstr ""
+
+#: app/blocks/search-error/search-error_bad-request.tpl.html
+msgid "Please check the spelling of your search request and try again"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Port"
+msgstr ""
+
+#: app/blocks/authmodule/core/authmodule-page__core.tpl.html
+msgid "Private Key"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Problem"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Product"
+msgstr ""
+
+#: app/blocks/app/app__routes.tpl.js
+msgid "Profile"
+msgstr ""
+
+#: app/blocks/group-list/group-list.tpl.html
+#: app/blocks/group-list/group-list__create-dialog.tpl.html
+#: app/blocks/group-page/group-page__settings.tpl.html
+#: app/blocks/hub-access/hub-access__mode-trait.js
+msgid "Project"
+msgstr ""
+
+#: app/blocks/project-page/project-page__settings.tpl.html
+msgid "Project is archived"
+msgstr ""
+
+#: app/blocks/project-page/project-page__settings.tpl.html
+msgid "Project is not archived"
+msgstr ""
+
+#: app/blocks/project-page/project-page.tpl.html
+#: app/blocks/app/app__routes.tpl.js
+#: app/blocks/hub-access/hub-access__mode-trait.js
+msgid "Projects"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Protocol"
+msgstr ""
+
+#: app/blocks/authmodule/core/authmodule-page__core.tpl.html
+msgid "Public Key"
+msgstr ""
+
+#: app/blocks/authmodule/core/authmodule-page__core.tpl.html
+msgid "ReCaptcha"
+msgstr ""
+
+#: app/blocks/authmodule/core/authmodule-page__core.tpl.html
+msgid "ReCaptcha is disabled"
+msgstr ""
+
+#: app/blocks/authmodule/core/authmodule-page__core.tpl.html
+msgid "ReCaptcha is enabled"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Read Auth Module"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Read Project"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Read Role"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Read Self"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Read Service"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Read User"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Read User Group"
+msgstr ""
+
+#: app/blocks/hub-access/hub-access.tpl.html
+msgid "Reasons"
+msgstr ""
+
+#: app/blocks/service-page/service-page__settings.tpl.html
+msgid "Redirect URIs"
+msgstr ""
+
+#: app/blocks/refresh-token-list/refresh-token-list.js
+msgid "Refresh Tokens"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Register new service"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Register new users. Invite new users."
+msgstr ""
+
+#: app/blocks/authmodule/core/authmodule-page__core.tpl.html
+#: app/blocks/authmodule/jba/authmodule-page__jba.tpl.html
+msgid "Registration"
+msgstr ""
+
+#: app/blocks/authmodule/core/authmodule-page__core.tpl.html
+#: app/blocks/authmodule/jba/authmodule-page__jba.tpl.html
+msgid "Registration is disabled"
+msgstr ""
+
+#: app/blocks/authmodule/core/authmodule-page__core.tpl.html
+#: app/blocks/authmodule/jba/authmodule-page__jba.tpl.html
+msgid "Registration is enabled"
+msgstr ""
+
+#: app/blocks/service-page/service-page__settings.tpl.html
+msgid "Relative URIs are resolved against the service Home URL"
+msgstr ""
+
+#: app/blocks/group-page/group-page__members__toolbar.tpl.html
+#: app/blocks/user-page/user-page__groups__toolbar.tpl.html
+#: app/blocks/role-page/role-page.js
+msgid "Remove"
+msgstr ""
+
+#: app/blocks/project-page/project-page__resources__toolbar.tpl.html
+msgid "Remove Resource"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Remove Role in Project"
+msgstr ""
+
+#. Label in remove users from group menu
+#: app/blocks/user-list/user-list__group-manager.js
+msgid "Remove from"
+msgstr ""
+
+#: app/blocks/hub-access/hub-access.tpl.html
+msgid "Remove from the group"
+msgstr ""
+
+#: app/blocks/role-page/role-page.js
+msgid "Remove permission {{ name }}?"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Removed resource {{ name }}"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Removed {{ count }} resource"
+msgid_plural "Removed {{ count }} resources"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Removed {{ count }} user from the group"
+msgid_plural "Removed {{ count }} users from the group"
+msgstr[0] ""
+msgstr[1] ""
+
+#. {{ name }} - name of the user that was removed from the group
+#: app/blocks/i18n/i18n__messages.js
+msgid "Removed {{ name }} from the group"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Removed {{count}} user from group {{groupName}}"
+msgid_plural "Removed {{count}} users from group {{groupName}}"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Removed {{userName}} from group {{groupName}}"
+msgstr ""
+
+#: app/blocks/role-page/role-page__permissions.tpl.html
+#: app/blocks/service-page/service-page__roles.tpl.html
+#: app/blocks/role-page/role-page.js
+msgid "Reset"
+msgstr ""
+
+#: app/blocks/role-page/role-page.js
+msgid "Reset permissions?"
+msgstr ""
+
+#: app/blocks/role-page/role-page__permissions.tpl.html
+msgid "Reset to Default Permissions"
+msgstr ""
+
+#: app/blocks/service-page/service-page__roles.tpl.html
+msgid "Reset to default permissions"
+msgstr ""
+
+#: app/blocks/project-page/project-page__resources__add-dialog.tpl.html
+msgid "Resource"
+msgstr ""
+
+#: app/blocks/project-list/project-list.tpl.html
+#: app/blocks/project-page/project-page.tpl.html
+#: app/blocks/service-list/service-list.tpl.html
+#: app/blocks/service-page/service-page.tpl.html
+msgid "Resources"
+msgstr ""
+
+#: app/blocks/project-list/project-list__toolbar.tpl.html
+#: app/blocks/project-page/project-page__settings.tpl.html
+msgid "Restore"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Results of duplicate user search have expired"
+msgstr ""
+
+#: app/blocks/hub-access/hub-access.tpl.html
+msgid "Revoke the role"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Revoke the role in the project from user/group/service"
+msgstr ""
+
+#: app/blocks/hub-access/hub-access__add-permissions.tpl.html
+#: app/blocks/hub-access/hub-access__mode-trait.js
+msgid "Role"
+msgstr ""
+
+#: app/blocks/group-list/group-list.tpl.html
+#: app/blocks/role-page/role-page.tpl.html
+#: app/blocks/service-page/service-page.tpl.html
+#: app/blocks/user-page/user-page__groups.tpl.html
+#: app/blocks/app/app__routes.tpl.js
+#: app/blocks/hub-access/hub-access__mode-trait.js
+msgid "Roles"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "SASL Authentication"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "SMTP"
+msgstr ""
+
+#: app/blocks/app/app__routes.tpl.js
+msgid "SSL Key Store"
+msgstr ""
+
+#: app/blocks/keystore-page/keystore-page.tpl.html
+#: app/blocks/app/app__routes.tpl.js
+msgid "SSL Key Stores"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Same as Read User but only for the logged in user"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Same as Update User but only for the logged in user"
+msgstr ""
+
+#: app/blocks/hub-resource/hub-resource__update-combo.tpl.html
+#: app/blocks/hub-resource/hub-resource__update-select.tpl.html
+#: app/blocks/hub-resource/hub-resource__update-text.tpl.html
+#: app/blocks/settings-page/settings-page.js
+msgid "Save"
+msgstr ""
+
+#: app/blocks/hub-resource/hub-resource__update-combo.tpl.html
+#: app/blocks/hub-resource/hub-resource__update-select.tpl.html
+#: app/blocks/hub-resource/hub-resource__update-text.tpl.html
+msgid "Saved!"
+msgstr ""
+
+#: app/blocks/authmodule/openid/authmodule-page__openid.tpl.html
+msgid "Schema"
+msgstr ""
+
+#: app/blocks/approved-scopes/approved-scopes.tpl.html
+#: app/blocks/refresh-token-list/refresh-token-list.tpl.html
+msgid "Scope Services"
+msgstr ""
+
+#: app/blocks/user-duplicates/user-duplicates__results.tpl.html
+msgid "Search Again"
+msgstr ""
+
+#: app/blocks/user-duplicates/user-duplicates.tpl.html
+msgid "Searching for duplicates"
+msgstr ""
+
+#: app/blocks/service-page/service-page__settings.tpl.html
+msgid "Secret"
+msgstr ""
+
+#: app/blocks/user-page/user-page__avatar.tpl.html
+msgid "Select Avatar"
+msgstr ""
+
+#: app/blocks/hub-access/hub-access__add-permissions.tpl.html
+msgid "Select Global project to grant permissions in all projects"
+msgstr ""
+
+#: app/blocks/ssl-management/ssl-key-picker.tpl.html
+msgid "Select SSL key"
+msgstr ""
+
+#: app/blocks/project-list/project-list.tpl.html
+msgid "Select a project to see details"
+msgstr ""
+
+#: app/blocks/refresh-token-list/refresh-token-list.tpl.html
+msgid "Select a refresh token to see details"
+msgstr ""
+
+#: app/blocks/project-page/project-page__resources.tpl.html
+#: app/blocks/service-page/service-page__resources.tpl.html
+msgid "Select a resource to see details"
+msgstr ""
+
+#: app/blocks/role-list/role-list.tpl.html
+msgid "Select a role to see details"
+msgstr ""
+
+#: app/blocks/service-list/service-list.tpl.html
+msgid "Select a service to see details"
+msgstr ""
+
+#: app/blocks/group-page/group-page__members.tpl.html
+#: app/blocks/user-list/user-list.tpl.html
+msgid "Select a user to see details"
+msgstr ""
+
+#: app/blocks/authmodule-list/authmodule-list.tpl.html
+msgid "Select an Auth Module to see details"
+msgstr ""
+
+#: app/blocks/approved-scopes/approved-scopes.tpl.html
+msgid "Select approved scope to see details"
+msgstr ""
+
+#: app/blocks/user-list/user-list__merge.js
+msgid "Select at least two users for merge"
+msgstr ""
+
+#: app/blocks/event-list/event-list.tpl.html
+msgid "Select audit event to see details"
+msgstr ""
+
+#: app/blocks/certificate-list/certificate-list.tpl.html
+msgid "Select certificate to see details"
+msgstr ""
+
+#: app/blocks/user-page/user-page__general.tpl.html
+msgid "Select existing email or enter a new one to add"
+msgstr ""
+
+#: app/blocks/user-page/user-page__general.tpl.html
+msgid "Select existing jabber or enter a new one to add"
+msgstr ""
+
+#: app/blocks/user-page/user-page__general.tpl.html
+msgid "Select existing login or enter a new one to add"
+msgstr ""
+
+#: app/blocks/user-page/user-page__general.tpl.html
+msgid "Select existing name or enter a new one to add"
+msgstr ""
+
+#: app/blocks/group-list/group-list.tpl.html
+#: app/blocks/user-page/user-page__groups.tpl.html
+msgid "Select group to see details"
+msgstr ""
+
+#: app/blocks/service-page/service-page__permissions.tpl.html
+msgid "Select permission to see details"
+msgstr ""
+
+#: app/blocks/project-page/project-page__resources__add-dialog.tpl.html
+msgid "Select resource"
+msgstr ""
+
+#: app/blocks/project-page/project-page__resources__add-dialog.tpl.html
+msgid "Select service"
+msgstr ""
+
+#: app/blocks/service-list/service-list.tpl.html
+msgid "Select service to see details"
+msgstr ""
+
+#: app/blocks/keystore-list/keystore-list.tpl.html
+msgid "Select store to see details"
+msgstr ""
+
+#: app/blocks/hub-access/hub-access__add-permissions.tpl.html
+msgid "Selected permission cannot be granted in this project."
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.js
+msgid "Send"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+#: app/blocks/settings-page/settings-page__test-dialog.tpl.html
+msgid "Send Test Message"
+msgstr ""
+
+#: app/blocks/user-page/user-page__general.js
+msgid "Sent contact verification message"
+msgstr ""
+
+#: app/blocks/ssl-management/certificate-info.js
+msgid "Serial Number"
+msgstr ""
+
+#: app/blocks/authmodule-list/authmodule-list__create-dialog.tpl.html
+#: app/blocks/authmodule-list/authmodule-list__sidebar.tpl.html
+#: app/blocks/authmodule/github/authmodule-page__github.tpl.html
+#: app/blocks/authmodule/google/authmodule-page__google.tpl.html
+#: app/blocks/authmodule/jba/authmodule-page__jba.tpl.html
+#: app/blocks/authmodule/jira/authmodule-page__jira.tpl.html
+#: app/blocks/authmodule/ldap/authmodule-page__ldap.tpl.html
+#: app/blocks/authmodule/openid/authmodule-page__openid.tpl.html
+msgid "Server URL"
+msgstr ""
+
+#: app/blocks/project-page/project-page__resources.tpl.html
+#: app/blocks/project-page/project-page__resources__add-dialog.tpl.html
+#: app/blocks/service-page/service-page__permissions__sidebar.tpl.html
+#: app/blocks/service-page/service-page__resources__sidebar.tpl.html
+msgid "Service"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Service Name"
+msgstr ""
+
+#: app/blocks/service-page/service-page__settings.tpl.html
+msgid "Service is trusted"
+msgstr ""
+
+#: app/blocks/service-page/service-page__settings.tpl.html
+msgid "Service is untrusted"
+msgstr ""
+
+#: app/blocks/role-page/role-page__permissions.tpl.html
+#: app/blocks/service-page/service-page.tpl.html
+#: app/blocks/app/app__routes.tpl.js
+msgid "Services"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page__license-dialog.tpl.html
+msgid "Set License"
+msgstr ""
+
+#: app/blocks/group-page/group-page.tpl.html
+#: app/blocks/project-page/project-page.tpl.html
+#: app/blocks/service-page/service-page.tpl.html
+#: app/blocks/settings-page/settings-page.tpl.html
+#: app/blocks/app/app__routes.tpl.js
+msgid "Settings"
+msgstr ""
+
+#: app/blocks/app/app.js
+msgid "Should be a valid URL"
+msgstr ""
+
+#: app/blocks/app/app.js
+msgid "Should be a valid email"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Show"
+msgstr ""
+
+#: app/blocks/table-list/table-list__sidebar-button.tpl.html
+msgid "Show Details"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Shown"
+msgstr ""
+
+#: app/blocks/app/app.js
+msgid "Sorry, your browser doesn't support File API"
+msgstr ""
+
+#: app/blocks/keystore-list/keystore-list__create-dialog.tpl.html
+msgid "Store Password"
+msgstr ""
+
+#: app/blocks/keystore-list/keystore-list__create-dialog.tpl.html
+msgid "Store file"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "System Language"
+msgstr ""
+
+#: app/blocks/event-list/event-list.tpl.html
+#: app/blocks/event-list/event-list__sidebar.tpl.html
+#: app/blocks/event-page/event-page.tpl.html
+msgid "Target"
+msgstr ""
+
+#: app/blocks/authmodule-page/authmodule-page.tpl.html
+#: app/blocks/authmodule-page/authmodule-page.js
+msgid "Test Login"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.js
+msgid "Test message sent"
+msgstr ""
+
+#: app/blocks/authmodule-page/authmodule-page.js
+msgid "Test {{ authModuleName }} authentication"
+msgstr ""
+
+#: app/blocks/group-page/group-page.tpl.html
+msgid "The group has no access permissions granted in any connected service."
+msgstr ""
+
+#: app/blocks/service-page/service-page.tpl.html
+msgid "The service has no access permissions granted in any connected service."
+msgstr ""
+
+#: app/blocks/service-page/service-page__roles.tpl.html
+msgid "The service provides no default roles."
+msgstr ""
+
+#: app/blocks/service-page/service-page__permissions__empty.tpl.html
+msgid "The service provides no permissions."
+msgstr ""
+
+#: app/blocks/service-page/service-page__resources__empty.tpl.html
+msgid "The service provides no resources."
+msgstr ""
+
+#: app/blocks/user-page/user-page.tpl.html
+msgid "The user has no access permissions granted in any connected service."
+msgstr ""
+
+#: app/blocks/project-page/project-page__resources__empty.tpl.html
+msgid "There are no resources in this project. It may also mean that you have insufficient access permissions."
+msgstr ""
+
+#: app/blocks/group-page/group-page__members__empty.tpl.html
+msgid "There are no users in this group."
+msgstr ""
+
+#: app/blocks/error-page/error-page.tpl.html
+msgid "There's nothing we can do: The server seems to be offline."
+msgstr ""
+
+#: app/blocks/service-page/service-page__settings.tpl.html
+msgid "This service uses unsecured connection"
+msgstr ""
+
+#: app/blocks/event-list/event-list.tpl.html
+#: app/blocks/event-list/event-list__sidebar.tpl.html
+#: app/blocks/event-page/event-page.tpl.html
+msgid "Timestamp"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.js
+msgid "To Contact"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.js
+msgid "To Email"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.js
+msgid "To Jabber"
+msgstr ""
+
+#: app/blocks/hub-access/hub-access__add-permissions.tpl.html
+msgid "To User"
+msgstr ""
+
+#: app/blocks/authmodule/ldap/user-page__settings__ldap__change-password.tpl.html
+msgid "To change password contact administrator"
+msgstr ""
+
+#: app/blocks/authmodule/github/authmodule-page__github.tpl.html
+msgid "To enable authentication with GitHub you have to <a href=\"https://github.com/settings/applications/new\">register an application at GitHub</a>, get Client ID and Client Secret there and paste it to the respective fields here. As the value of the Authorization callback URL at GitHub use <b>{{ module.redirectUri }}</b>."
+msgstr ""
+
+#: app/blocks/authmodule/google/authmodule-page__google.tpl.html
+msgid "To enable authentication with Google you have to get CLIENT ID and CLIENT SECRET as it is described in the <a class=\"ring-link\" href=\"https://developers.google.com/console/help/new/#generatingoauth2\">Setting up OAuth 2.0</a> section of Google Developers Console Help. As a value for the field REDIRECT URIS in the Google console use <b>{{ module.redirectUri }}</b>."
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Trial"
+msgstr ""
+
+#: app/blocks/service-list/service-list__toolbar.tpl.html
+#: app/blocks/service-page/service-page__settings.tpl.html
+msgid "Trust"
+msgstr ""
+
+#: app/blocks/app/app__routes.tpl.js
+msgid "Trusted SSL Certificate"
+msgstr ""
+
+#: app/blocks/certificate-page/certificate-page.tpl.html
+#: app/blocks/app/app__routes.tpl.js
+msgid "Trusted SSL Certificates"
+msgstr ""
+
+#: app/blocks/authmodule-list/authmodule-list.tpl.html
+#: app/blocks/authmodule-page/authmodule-page.tpl.html
+#: app/blocks/ssl-management/certificate-info.js
+msgid "Type"
+msgstr ""
+
+#: app/blocks/service-list/service-list.tpl.html
+msgid "URL"
+msgstr ""
+
+#: app/blocks/authmodule/openid/authmodule-page__openid.tpl.html
+msgid "URL Pattern"
+msgstr ""
+
+#: app/blocks/user-list/user-list__toolbar.tpl.html
+msgid "Unban"
+msgstr ""
+
+#: app/blocks/user-list/user-list__toolbar.tpl.html
+msgid "Unban selected users"
+msgstr ""
+
+#: app/blocks/user-page/user-page__general.tpl.html
+msgid "Unban user"
+msgstr ""
+
+#: app/blocks/error-page/error-page__forbidden.tpl.html
+msgid "Unfortunately, you are not allowed to access the page you've requested. It seems you don't have sufficient permissions."
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Unknown"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.js
+msgid "Unlimited"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Update Auth Module"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Update Project"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Update Role"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Update Self"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Update Service"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Update User"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Update User Group"
+msgstr ""
+
+#: app/blocks/service-page/service-page__settings.tpl.html
+msgid "Use :id and :login to reference the id or login of the user"
+msgstr ""
+
+#: app/blocks/service-page/service-page__settings.tpl.html
+msgid "Use :id and :name to reference the id or name of the group"
+msgstr ""
+
+#: app/blocks/hub-header/hub-header.tpl.html
+msgid "Use ↩ to complete selected item"
+msgstr ""
+
+#: app/blocks/group-page/group-page__members__add-dialog.tpl.html
+#: app/blocks/hub-access/hub-access__mode-trait.js
+msgid "User"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "User Count"
+msgstr ""
+
+#: app/blocks/service-list/service-list__sidebar.tpl.html
+#: app/blocks/service-page/service-page__settings.tpl.html
+msgid "User URI Pattern"
+msgstr ""
+
+#: app/blocks/authmodule/github/authmodule-page__github.tpl.html
+#: app/blocks/authmodule/google/authmodule-page__google.tpl.html
+#: app/blocks/authmodule/jba/authmodule-page__jba.tpl.html
+#: app/blocks/authmodule/jira/authmodule-page__jira.tpl.html
+#: app/blocks/authmodule/ldap/authmodule-page__ldap.tpl.html
+#: app/blocks/authmodule/openid/authmodule-page__openid.tpl.html
+msgid "User creation is allowed"
+msgstr ""
+
+#: app/blocks/authmodule/github/authmodule-page__github.tpl.html
+#: app/blocks/authmodule/google/authmodule-page__google.tpl.html
+#: app/blocks/authmodule/jba/authmodule-page__jba.tpl.html
+#: app/blocks/authmodule/jira/authmodule-page__jira.tpl.html
+#: app/blocks/authmodule/ldap/authmodule-page__ldap.tpl.html
+#: app/blocks/authmodule/openid/authmodule-page__openid.tpl.html
+msgid "User creation is denied"
+msgstr ""
+
+#: app/blocks/user-page/user-page__general.tpl.html
+msgid "User is banned"
+msgstr ""
+
+#: app/blocks/user-page/user-page__groups__empty.tpl.html
+msgid "User is not a member of any group or you have no permission to list them."
+msgstr ""
+
+#: app/blocks/user-page/user-page__general.tpl.html
+msgid "User is not banned"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "User not found"
+msgstr ""
+
+#: app/blocks/settings-page/settings-page.tpl.html
+msgid "Username"
+msgstr ""
+
+#: app/blocks/user-duplicates/user-duplicates.tpl.html
+#: app/blocks/user-page/user-page.tpl.html
+#: app/blocks/app/app__routes.tpl.js
+#: app/blocks/hub-access/hub-access__mode-trait.js
+msgid "Users"
+msgstr ""
+
+#: app/blocks/user-list/user-list__find-duplicates-dropdown.js
+msgid "Users having at least something in common"
+msgstr ""
+
+#: app/blocks/user-list/user-list__find-duplicates-dropdown.js
+msgid "Users with same emails"
+msgstr ""
+
+#: app/blocks/user-list/user-list__find-duplicates-dropdown.js
+msgid "Users with same emails and similar names"
+msgstr ""
+
+#: app/blocks/user-list/user-list__sidebar.tpl.html
+msgid "VCS User Name"
+msgid_plural "{{ $count }} VCS User Names"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/user-page/user-page__general.tpl.html
+msgid "VCS User Names"
+msgstr ""
+
+#: app/blocks/certificate-list/certificate-list.tpl.html
+#: app/blocks/keystore-list/keystore-list.tpl.html
+#: app/blocks/ssl-management/certificate-info.js
+msgid "Valid From"
+msgstr ""
+
+#: app/blocks/certificate-list/certificate-list.tpl.html
+#: app/blocks/keystore-list/keystore-list.tpl.html
+#: app/blocks/ssl-management/certificate-info.js
+msgid "Valid To"
+msgstr ""
+
+#: app/blocks/app/app.js
+msgid "Value is required"
+msgstr ""
+
+#: app/blocks/authmodule/github/authmodule-page__github.tpl.html
+msgid "Value of the Client ID at GitHub Applications page"
+msgstr ""
+
+#: app/blocks/authmodule/github/authmodule-page__github.tpl.html
+msgid "Value of the Client Secret at GitHub Applications page"
+msgstr ""
+
+#: app/blocks/authmodule/google/authmodule-page__google.tpl.html
+msgid "Value of the field CLIENT ID in the Google console"
+msgstr ""
+
+#: app/blocks/authmodule/google/authmodule-page__google.tpl.html
+msgid "Value of the field CLIENT SECRET in the Google console"
+msgstr ""
+
+#: app/blocks/service-page/service-page__settings.tpl.html
+msgid "Vendor"
+msgstr ""
+
+#: app/blocks/user-page/user-page__general.tpl.html
+msgid "Verify"
+msgstr ""
+
+#: app/blocks/service-page/service-page__settings.tpl.html
+#: app/blocks/ssl-management/certificate-info.js
+msgid "Version"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "View project properties and content. List project resources. Is required (with Read Role) to read project roles of user/group/service"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "View the list of auth modules. View properties of an auth module"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "View the list of registered user accounts. Read user authorization details. Is required (with Update Group) to modify group membership for the user"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "View the list of roles. View a set of role permissions. Is required (with Read Project) to read project roles of user/group/service"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "View the list of services. View properties of a service. View service resources, permissions, default roles"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "View the list of user groups. View group properties. View subgroups (Read User Group for subgroup is required). View members (Read User is required)"
+msgstr ""
+
+#: app/blocks/error-page/error-page__forbidden.tpl.html
+msgid "Woah, you can't touch this!"
+msgstr ""
+
+#: app/blocks/authmodule/openid/authmodule__openid.js
+msgid "Yahoo!"
+msgstr ""
+
+#. Element of create authmodule menu
+#: app/blocks/authmodule/openid/authmodule__openid.js
+msgid "Yahoo! (OpenID)"
+msgstr ""
+
+#: app/blocks/authmodule/openid/authmodule__openid.js
+msgid "Yandex"
+msgstr ""
+
+#. Element of create authmodule menu
+#: app/blocks/authmodule/openid/authmodule__openid.js
+msgid "Yandex (OpenID)"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "You are merging one set of similar users. Proceed?"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "You are merging {{ count }} set of similar users. Proceed?"
+msgid_plural "You are merging {{ count }} sets of similar users. Proceed?"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+#: app/blocks/user-list/user-list__ban.js
+msgid "You can't ban yourself"
+msgstr ""
+
+#: app/blocks/hub-access/hub-access.js
+msgid "You have no permissions to remove role"
+msgstr ""
+
+#: app/blocks/project-list/project-list.tpl.html
+#: app/blocks/project-list/project-list__sidebar.tpl.html
+#: app/blocks/project-page/project-page.tpl.html
+msgid "archived"
+msgstr ""
+
+#: app/blocks/user-duplicates/user-duplicates__results.tpl.html
+msgid "as"
+msgstr ""
+
+#: app/blocks/group-list/group-list__sidebar.tpl.html
+#: app/blocks/group-page/group-page.tpl.html
+msgid "auto-join"
+msgstr ""
+
+#: app/blocks/group-page/group-page__members.tpl.html
+#: app/blocks/user-duplicates/user-duplicates__results.tpl.html
+#: app/blocks/user-list/user-list.tpl.html
+#: app/blocks/user-list/user-list__sidebar.tpl.html
+#: app/blocks/user-page/user-page.tpl.html
+msgid "banned"
+msgstr ""
+
+#: app/blocks/app/app__routes.tpl.js
+msgid "by JetBrains"
+msgstr ""
+
+#: app/blocks/user-page/user-page__general.js
+msgid "can contain only digits, letters and symbols: $ + = | . -"
+msgstr ""
+
+#: app/blocks/authmodule-list/authmodule-list.tpl.html
+#: app/blocks/authmodule-list/authmodule-list__sidebar.tpl.html
+#: app/blocks/authmodule-page/authmodule-page.tpl.html
+msgid "disabled"
+msgstr ""
+
+#: app/blocks/group-page/group-page__members__add-dialog.tpl.html
+msgid "error"
+msgstr ""
+
+#: app/blocks/keystore-list/keystore-list.tpl.html
+msgid "filter SSL key stores"
+msgstr ""
+
+#: app/blocks/event-list/event-list.tpl.html
+msgid "filter audit events"
+msgstr ""
+
+#: app/blocks/authmodule-list/authmodule-list.tpl.html
+msgid "filter auth modules"
+msgstr ""
+
+#: app/blocks/certificate-list/certificate-list.tpl.html
+msgid "filter certificates"
+msgstr ""
+
+#: app/blocks/group-list/group-list.tpl.html
+msgid "filter groups"
+msgstr ""
+
+#: app/blocks/project-list/project-list.tpl.html
+msgid "filter projects"
+msgstr ""
+
+#: app/blocks/role-list/role-list.tpl.html
+msgid "filter roles"
+msgstr ""
+
+#: app/blocks/service-list/service-list.tpl.html
+msgid "filter services"
+msgstr ""
+
+#: app/blocks/user-duplicates/user-duplicates.tpl.html
+#: app/blocks/user-list/user-list.tpl.html
+msgid "filter users"
+msgstr ""
+
+#: app/blocks/user-page/user-page__general.tpl.html
+msgid "imported from service"
+msgstr ""
+
+#: app/blocks/user-page/user-page__general.js
+msgid "is not a valid email"
+msgstr ""
+
+#: app/blocks/user-page/user-page__general.js
+msgid "is not a valid jabber address"
+msgstr ""
+
+#: app/blocks/user-page/user-page__general.js
+msgid "login is busy"
+msgstr ""
+
+#: app/blocks/group-list/group-list__create-dialog.tpl.html
+msgid "select project"
+msgstr ""
+
+#: app/blocks/user-page/user-page__general.js
+msgid "should be at least 3 characters long"
+msgstr ""
+
+#: app/blocks/user-list/user-list__create-dialog.tpl.html
+msgid "space-separated list of email addresses..."
+msgstr ""
+
+#: app/blocks/service-list/service-list.tpl.html
+#: app/blocks/service-list/service-list__sidebar.tpl.html
+#: app/blocks/service-page/service-page.tpl.html
+msgid "trusted"
+msgstr ""
+
+#: app/blocks/service-list/service-list.tpl.html
+#: app/blocks/service-list/service-list__sidebar.tpl.html
+#: app/blocks/service-page/service-page.tpl.html
+msgid "untrusted"
+msgstr ""
+
+#: app/blocks/user-page/user-page__general.tpl.html
+#: app/blocks/user-page/user-page__general.js
+msgid "verification is required"
+msgstr ""
+
+#: app/blocks/user-page/user-page__general.tpl.html
+#: app/blocks/user-page/user-page__general.js
+msgid "verified"
+msgstr ""
+
+#: app/blocks/error-page/error-page__message.tpl.html
+msgid "view the profile"
+msgstr ""
+
+#: app/blocks/authmodule-list/authmodule-list__sidebar.tpl.html
+msgid "{{ $count }} Auto-join group"
+msgid_plural "{{ $count }} Auto-join groups"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/user-list/user-list__sidebar.tpl.html
+msgid "{{ $count }} Group"
+msgid_plural "{{ $count }} Groups"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/group-list/group-list__sidebar.tpl.html
+#: app/blocks/user-list/user-list__sidebar.tpl.html
+msgid "{{ $count }} Own Role"
+msgid_plural "{{ $count }} Own Roles"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/role-list/role-list__sidebar.tpl.html
+#: app/blocks/service-list/service-list__sidebar.tpl.html
+msgid "{{ $count }} Permission"
+msgid_plural "{{ $count }} Permissions"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/project-list/project-list__sidebar.tpl.html
+#: app/blocks/service-list/service-list__sidebar.tpl.html
+msgid "{{ $count }} Resource"
+msgid_plural "{{ $count }} Resources"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/approved-scopes/approved-scopes__sidebar.tpl.html
+#: app/blocks/refresh-token-list/refresh-token-list__sidebar.tpl.html
+msgid "{{ $count }} Scope Service"
+msgid_plural "{{ $count }} Scope Services"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/authmodule-page/authmodule-page.tpl.html
+msgid "{{ $count }} group"
+msgid_plural "{{ $count }} groups"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/user-duplicates/user-duplicates__results.tpl.html
+msgid "{{ $parent.resultsPerPage }} per page"
+msgstr ""
+
+#: app/blocks/role-page/role-page__permissions.tpl.html
+msgid "{{ (service.permissions | filterBySet:checkedPermissions:'id').length }} of {{ service.permissions.length }}"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "{{ count }} Audit Event"
+msgid_plural "{{ count }} Audit Events"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "{{ count }} Auth Module"
+msgid_plural "{{ count }} Auth Modules"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "{{ count }} Group"
+msgid_plural "{{ count }} Groups"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "{{ count }} Project"
+msgid_plural "{{ count }} Projects"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "{{ count }} Role"
+msgid_plural "{{ count }} Roles"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "{{ count }} SSL Key Store"
+msgid_plural "{{ count }} SSL Key Stores"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "{{ count }} Service"
+msgid_plural "{{ count }} Services"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "{{ count }} Trusted SSL Certificate"
+msgid_plural "{{ count }} Trusted SSL Certificates"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "{{ count }} User"
+msgid_plural "{{ count }} Users"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "{{ count }} project"
+msgid_plural "{{ count }} projects"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "{{ count }} role"
+msgid_plural "{{ count }} roles"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "{{ count }} user"
+msgid_plural "{{ count }} users"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "{{ count }} user can {{ name }}"
+msgid_plural "{{ count }} users can {{ name }}"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "{{ count }} user has access"
+msgid_plural "{{ count }} users have access"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "{{ count }} user has role {{ name }}"
+msgid_plural "{{ count }} users have role {{ name }}"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "{{ name }} has one role"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "{{ name }} has {{ count }} role"
+msgid_plural "{{ name }} has {{ count }} roles"
+msgstr[0] ""
+msgstr[1] ""

@@ -1,0 +1,1284 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Youtrack-Clientside\n"
+"MIME-Version: 1.0\n"
+"Language: en\n"
+
+#: app/blocks/issue/issue-pane-header.html
+msgid ", updated by"
+msgstr ""
+
+#: app/blocks/error/404.html
+msgid "404: Nope, couldn't find it!"
+msgstr ""
+
+#: app/blocks/error/404.html
+msgid "<a class=\"ring-link\" href=\"#\" ng-click=\"goBack()\">Go back</a> or <a class=\"ring-link\" href=\"#/issues\">Go to issues</a>"
+msgstr ""
+
+#: app/scripts/filters.js
+msgid "<no query>"
+msgstr ""
+
+#: app/blocks/reports/charts/intervalReport.js
+msgid "A maximum calculated over the period of the previous {{n}} days"
+msgstr ""
+
+#: app/blocks/reports/edit/addProject.js
+msgid "Add Project"
+msgstr ""
+
+#: app/../dashboard/app/blocks/dashboard/dashboard.html
+msgid "Add Widget"
+msgstr ""
+
+#: app/blocks/menu/menu.html
+#: app/../dashboard/app/blocks/menu/menu.html
+msgid "Administration"
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Advanced issues per project"
+msgstr ""
+
+#: app/blocks/menu/menu.html
+#: app/blocks/menu/menu.js
+#: app/../dashboard/app/blocks/menu/menu.html
+msgid "Agile Boards"
+msgstr ""
+
+#: app/blocks/reports/types/issueDistribution/issueDistributionWidget.js
+msgid "All"
+msgstr ""
+
+#: app/blocks/reports/edit/context-selector/contextSelector.html
+#: app/blocks/reports/types/title.html
+msgid "All projects"
+msgstr ""
+
+#: app/blocks/footer/footer.html
+msgid "All rights reserved"
+msgstr ""
+
+#: app/blocks/reports/charts/intervalReport.js
+msgid "An average calculated over the period of the previous {{n}} days"
+msgstr ""
+
+#: app/blocks/status-line/status-line.html
+msgid "Apply command:"
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Are you sure?"
+msgstr ""
+
+#: app/blocks/reports/types/issueDistribution/editIssueDistribution.js
+msgid "Assignee"
+msgstr ""
+
+#: app/blocks/reports/edit/invalidationSettings.html
+msgid "Automatically recalculate"
+msgstr ""
+
+#: app/blocks/reports/charts/intervalReport.js
+msgid "Average"
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Average issue age"
+msgstr ""
+
+#: app/blocks/reports/edit/flatDistributionReportPresentation.html
+msgid "Bars"
+msgstr ""
+
+#: app/blocks/reports/charts/utils.js
+msgid "Bidirectional"
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Burndown"
+msgstr ""
+
+#: app/blocks/issue/issue-edit-form.html
+#: app/blocks/reports/edit/form.html
+#: app/blocks/color-picker/colorPicker.js
+#: app/blocks/reports/edit/addProject.js
+#: app/blocks/reports/types/customDistribution/editCustomDistribution.js
+msgid "Cancel"
+msgstr ""
+
+#: app/blocks/widgets/report/report.js
+msgid "Cannot load report {{name}}"
+msgstr ""
+
+#: app/blocks/reports/types/cumulativeFlow/editCumulativeFlow.js
+msgid "Cannot save Cumulative Flow report with empty series"
+msgstr ""
+
+#: app/blocks/reports/types/averageAge/averageAgeWidget.js
+msgid "Changed to one of the complement states"
+msgstr ""
+
+#: app/../dashboard/app/blocks/dashboard/dashboard.js
+msgid "Click Add Widget to place a widget on your dashboard."
+msgstr ""
+
+#: app/blocks/issue/issue.js
+msgid "Click to filter issues by tag {{tagName}}"
+msgstr ""
+
+#: app/blocks/reports/edit/form.html
+msgid "Clone"
+msgstr ""
+
+#: app/blocks/reports/edit/form.html
+#: app/blocks/reports/types/customDistribution/editCustomDistribution.js
+msgid "Close"
+msgstr ""
+
+#: app/blocks/reports/types/customDistribution/editCustomDistribution.js
+msgid "Closed (Other)"
+msgstr ""
+
+#: app/blocks/reports/types/customDistribution/edit.html
+msgid "Color settings"
+msgstr ""
+
+#: app/blocks/command-panel-new-issue/command-panel-new-issue.html
+#: app/blocks/command-panel/command-panel.html
+msgid "Command for"
+msgstr ""
+
+#: app/blocks/command-panel-new-issue/command-panel-new-issue.html
+#: app/blocks/command-panel/command-panel.html
+msgid "Command preview"
+msgstr ""
+
+#: app/blocks/comments/item.html
+msgid "Comment was deleted"
+msgstr ""
+
+#: app/blocks/issue/issue-tabs.html
+msgid "Comments"
+msgstr ""
+
+#: app/blocks/menu/menu.js
+#: app/../dashboard/app/blocks/menu/menu.html
+msgid "Create Issue"
+msgstr ""
+
+#: app/blocks/menu/menu.html
+#: app/blocks/reports/edit/groups/reportGroups.html
+msgid "Create Report"
+msgstr ""
+
+#: app/../dashboard/app/blocks/resources/issues.js
+msgid "Create a {{project}} first"
+msgstr ""
+
+#: app/blocks/issue-list/issue-list.html
+msgid "Create date"
+msgstr ""
+
+#: app/blocks/reports/edit/form.html
+msgid "Create report"
+msgstr ""
+
+#: app/blocks/reports/edit/groups/reportGroups.html
+msgid "Create reports to visually keep track of the whole team or your personal progress, either at the moment or during a specific time period. You can export, print and share reports with others team members."
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Cumulative flow"
+msgstr ""
+
+#: app/blocks/menu/menu.js
+#: app/../dashboard/app/blocks/dashboard/dashboard.html
+msgid "Dashboard"
+msgstr ""
+
+#: app/blocks/reports/types/burndown/widget.html
+msgid "Date:"
+msgstr ""
+
+#: app/blocks/reports/charts/utils.js
+#: app/blocks/reports/edit/aggregation.js
+msgid "Day"
+msgstr ""
+
+#: app/blocks/reports/charts/intervalReport.js
+#: app/blocks/reports/charts/intervalWidget.js
+msgid "Days"
+msgstr ""
+
+#: app/blocks/reports/edit/aggregation.js
+msgid "Default"
+msgstr ""
+
+#: app/blocks/reports/types/customDistribution/edit.html
+msgid "Default query settings"
+msgstr ""
+
+#: app/blocks/reports/edit/form.html
+msgid "Delete"
+msgstr ""
+
+#: app/blocks/command-panel-new-issue/command-panel-new-issue.html
+#: app/blocks/command-panel/command-panel.html
+msgid "Description"
+msgstr ""
+
+#: app/scripts/date-locale.js
+msgid "Done"
+msgstr ""
+
+#: app/blocks/reports/types/toolbar.html
+msgid "Download"
+msgstr ""
+
+#: app/../dashboard/app/blocks/dashboard/dashboard.js
+msgid "Drag your widgets around the Dashboard to organize it."
+msgstr ""
+
+#: app/blocks/reports/types/customDistribution/editCustomDistribution.js
+msgid "Duplicate"
+msgstr ""
+
+#: app/blocks/reports/edit/form.html
+msgid "Edit {{ report.name }}"
+msgstr ""
+
+#: app/blocks/reports/types/burndown/burndownDataLoader.js
+msgid "Effort overdue"
+msgstr ""
+
+#: app/blocks/status-line/status-line.html
+msgid "Enter <span class=\"status-line__label\">or</span> &larr;&larr;"
+msgstr ""
+
+#: app/blocks/command-panel-new-issue/command-panel-new-issue.html
+#: app/blocks/command-panel/command-panel.html
+msgid "Enter command"
+msgstr ""
+
+#: app/blocks/search-panel/search-panel.html
+#: app/blocks/search-panel/search-query-panel.html
+msgid "Enter search request"
+msgstr ""
+
+#: app/scripts/resources/rest.js
+msgid "Error when calculating the report"
+msgstr ""
+
+#: app/blocks/status-line/status-line.html
+msgid "Esc"
+msgstr ""
+
+#: app/blocks/reports/types/burndown/editBurndown.js
+msgid "Estimation field"
+msgstr ""
+
+#: app/blocks/menu/menu.js
+#: app/../dashboard/app/blocks/menu/menu.js
+msgid "Events & Maintenance Calendar"
+msgstr ""
+
+#: app/blocks/reports/edit/invalidationSettings.js
+msgid "Every Day"
+msgstr ""
+
+#: app/blocks/reports/edit/invalidationSettings.js
+msgid "Every Month"
+msgstr ""
+
+#: app/blocks/reports/edit/invalidationSettings.js
+msgid "Every Week"
+msgstr ""
+
+#: app/../dashboard/app/blocks/search-query-panel/search-query-panel.html
+#: app/../dashboard/app/blocks/search-query-panel/search-query-panel.js
+msgid "Everything"
+msgstr ""
+
+#: app/blocks/menu/menu.js
+#: app/../dashboard/app/blocks/menu/menu.js
+msgid "FAQ"
+msgstr ""
+
+#: app/blocks/footer/footer.html
+msgid "Feedback"
+msgstr ""
+
+#: app/blocks/reports/types/eventTransition/editEventTransition.js
+#: app/blocks/reports/types/flatDistribution/editFlatDistribution.js
+msgid "Field"
+msgstr ""
+
+#: app/blocks/command-panel-new-issue/command-panel-new-issue.html
+#: app/blocks/command-panel/command-panel.html
+msgid "Fields:"
+msgstr ""
+
+#: app/blocks/reports/types/customDistribution/editCustomDistribution.js
+#: app/blocks/reports/types/fixRate/fixRate.js
+#: app/blocks/reports/types/fixRate/fixRateWidget.js
+msgid "Fixed"
+msgstr ""
+
+#: app/blocks/reports/edit/range.html
+msgid "Fixed period"
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Fixed vs Reported rate"
+msgstr ""
+
+#: app/blocks/date-interval-input/date-interval-input.html
+msgid "From"
+msgstr ""
+
+#: app/blocks/status-line/status-line.html
+msgid "Go to search:"
+msgstr ""
+
+#: app/blocks/reports/types/time/edit.html
+msgid "Group by"
+msgstr ""
+
+#: app/blocks/reports/charts/utils.js
+msgid "Grouped"
+msgstr ""
+
+#: app/blocks/reports/edit/issueReportPresentation.html
+msgid "Grouped Bars"
+msgstr ""
+
+#: app/blocks/menu/menu.js
+#: app/../dashboard/app/blocks/menu/menu.js
+msgid "Groups"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "HTTP error"
+msgstr ""
+
+#: app/blocks/footer/footer.html
+msgid "Help"
+msgstr ""
+
+#: app/blocks/issue/issue-tabs.html
+msgid "History"
+msgstr ""
+
+#: app/blocks/reports/types/burndown/burndownDataLoader.js
+msgid "Ideal Burndown"
+msgstr ""
+
+#: app/../dashboard/app/blocks/dashboard/dashboard.js
+msgid "Important Issues"
+msgstr ""
+
+#: app/blocks/reports/types/averageAge/averageAge.js
+msgid "In selected state(s)"
+msgstr ""
+
+#: app/scripts/resources/rest.js
+msgid "Incorrect query"
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Issue Distribution Reports"
+msgstr ""
+
+#: app/blocks/menu/menu.html
+#: app/blocks/reports/types/time/body.html
+#: app/blocks/reports/charts/intervalReport.js
+#: app/blocks/widgets/issues/issues.js
+#: app/../dashboard/app/blocks/menu/menu.html
+msgid "Issues"
+msgstr ""
+
+#: app/blocks/reports/types/burndown/editBurndown.js
+msgid "Issues count"
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Issues per arbitrary field"
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Issues per assignee"
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Issues per project"
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Issues per two fields"
+msgstr ""
+
+#: app/scripts/date-locale.js
+msgid "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec"
+msgstr ""
+
+#: app/scripts/date-locale.js
+msgid "January,February,March,April,May,June,July,August,September,October,November,December"
+msgstr ""
+
+#: app/blocks/footer/footer.html
+msgid "JetBrains Bug & Issue Tracker"
+msgstr ""
+
+#: app/blocks/reports/edit/range.js
+msgid "Last month"
+msgstr ""
+
+#: app/blocks/reports/edit/range.js
+msgid "Last week"
+msgstr ""
+
+#: app/../dashboard/app/blocks/dashboard/dashboard.html
+msgid "Learn YouTrack"
+msgstr ""
+
+#: app/blocks/reports/sidebar/sidebar.js
+msgid "Less"
+msgstr ""
+
+#: app/blocks/issue-list/issue-list.html
+msgid "Load more&hellip;"
+msgstr ""
+
+#: app/blocks/widgets/report/report.js
+msgid "Loading..."
+msgstr ""
+
+#: app/blocks/menu/menu.js
+#: app/../dashboard/app/blocks/menu/menu.js
+msgid "Login"
+msgstr ""
+
+#: app/blocks/menu/menu.js
+#: app/../dashboard/app/blocks/menu/menu.js
+msgid "Logout"
+msgstr ""
+
+#: app/blocks/reports/edit/issueReportPresentation.html
+msgid "Matrix"
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Matrix report"
+msgstr ""
+
+#: app/blocks/reports/charts/intervalReport.js
+msgid "Maximum"
+msgstr ""
+
+#: app/blocks/reports/edit/userGroup.js
+msgid "Me only"
+msgstr ""
+
+#: app/blocks/reports/charts/intervalReport.js
+msgid "Minimum"
+msgstr ""
+
+#: app/blocks/reports/charts/utils.js
+#: app/blocks/reports/edit/aggregation.js
+#: app/blocks/reports/types/resolutionTime/windowSize.js
+msgid "Month"
+msgstr ""
+
+#: app/blocks/menu/menu.js
+#: app/blocks/reports/sidebar/sidebar.js
+#: app/../dashboard/app/blocks/menu/menu.js
+msgid "More"
+msgstr ""
+
+#: app/blocks/reports/types/resolutionTime/windowSize.html
+msgid "Moving Window Size"
+msgstr ""
+
+#: app/blocks/reports/charts/intervalWidget.js
+msgid "Moving average"
+msgstr ""
+
+#: app/blocks/reports/charts/intervalReport.js
+msgid "Moving average ({{n}} days)"
+msgstr ""
+
+#: app/blocks/reports/charts/intervalWidget.js
+msgid "Moving maximum"
+msgstr ""
+
+#: app/blocks/reports/charts/intervalReport.js
+msgid "Moving maximum ({{n}} days)"
+msgstr ""
+
+#: app/blocks/reports/edit/prepareReportEdit.js
+msgid "Name is required"
+msgstr ""
+
+#: app/scripts/resources/rest.js
+msgid "Network error"
+msgstr ""
+
+#: app/blocks/reports/edit/invalidationSettings.js
+msgid "Never"
+msgstr ""
+
+#: app/blocks/reports/types/customDistribution/editCustomDistribution.js
+msgid "New Bugs"
+msgstr ""
+
+#: app/blocks/reports/types/customDistribution/editCustomDistribution.js
+msgid "New Features"
+msgstr ""
+
+#: app/blocks/command-panel-new-issue/command-panel-new-issue.html
+#: app/blocks/command-panel/command-panel.html
+msgid "New Issue"
+msgstr ""
+
+#: app/blocks/reports/types/resolveRate/resolveRate.js
+#: app/blocks/reports/types/resolveRate/resolveRateWidget.js
+msgid "New/Reopened"
+msgstr ""
+
+#: app/scripts/date-locale.js
+msgid "Next"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "No Connection"
+msgstr ""
+
+#: app/blocks/widgets/issues/issues.html
+msgid "No issues found on"
+msgstr ""
+
+#: app/blocks/issue-list/issue-list.html
+msgid "No issues found."
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "Not Found"
+msgstr ""
+
+#: app/../dashboard/app/blocks/notes/markdown.js
+msgid "Notes"
+msgstr ""
+
+#: app/blocks/reports/types/issueDistribution/body.html
+msgid "Nothing found"
+msgstr ""
+
+#: app/blocks/menu/menu.js
+#: app/../dashboard/app/blocks/menu/menu.js
+msgid "Online demos"
+msgstr ""
+
+#: app/blocks/menu/menu.js
+#: app/../dashboard/app/blocks/menu/menu.js
+msgid "Online help"
+msgstr ""
+
+#: app/blocks/search-panel/search-query-panel.html
+msgid "Other actions"
+msgstr ""
+
+#: app/blocks/reports/types/time/toolbar.html
+#: app/blocks/reports/types/time/widget.html
+msgid "Per Issue"
+msgstr ""
+
+#: app/blocks/reports/types/time/toolbar.html
+#: app/blocks/reports/types/time/widget.html
+msgid "Per User"
+msgstr ""
+
+#: app/blocks/reports/edit/period.html
+#: app/blocks/reports/edit/range.html
+msgid "Period"
+msgstr ""
+
+#: app/blocks/reports/edit/flatDistributionReportPresentation.html
+msgid "Pie chart"
+msgstr ""
+
+#: app/blocks/reports/edit/flatDistributionReportPresentation.html
+#: app/blocks/reports/edit/issueReportPresentation.html
+msgid "Presentation"
+msgstr ""
+
+#: app/scripts/date-locale.js
+msgid "Prev"
+msgstr ""
+
+#: app/blocks/reports/types/toolbar.html
+msgid "Print"
+msgstr ""
+
+#: app/blocks/reports/types/issueDistribution/editIssueDistribution.js
+msgid "Priority"
+msgstr ""
+
+#: app/blocks/menu/menu.js
+#: app/../dashboard/app/blocks/menu/menu.js
+msgid "Profile"
+msgstr ""
+
+#: app/blocks/reports/edit/addProject.html
+msgid "Project"
+msgstr ""
+
+#: app/blocks/reports/types/customDistribution/editQueries.html
+msgid "Project alias"
+msgstr ""
+
+#: app/blocks/reports/edit/query.html
+#: app/blocks/menu/menu.js
+#: app/../dashboard/app/blocks/menu/menu.js
+msgid "Projects"
+msgstr ""
+
+#: app/blocks/reports/edit/context-query-input.html
+#: app/blocks/widgets/issues/issues.html
+#: app/../dashboard/app/blocks/search-query-panel/search-query-panel.html
+msgid "Query"
+msgstr ""
+
+#: app/../dashboard/app/blocks/dashboard/dashboard.js
+msgid "Quick Notes"
+msgstr ""
+
+#: app/blocks/reports/edit/ranges.html
+msgid "Range"
+msgstr ""
+
+#: app/blocks/reports/types/toolbar.html
+msgid "Re-calculate"
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Reflects the dynamic changes in certain field values over a time period. The results can be grouped by assignee, priority of any other field. For example, it allows you to monitor, how many submitted issues ended up as won't fix or can't reproduce."
+msgstr ""
+
+#: app/blocks/menu/menu.js
+msgid "Regular interface"
+msgstr ""
+
+#: app/blocks/reports/types/burndown/burndownDataLoader.js
+msgid "Remaining Effort"
+msgstr ""
+
+#: app/blocks/reports/types/averageAge/averageAgeWidget.js
+msgid "Remains in one of the selected states"
+msgstr ""
+
+#: app/blocks/reports/types/verifyRate/verifyRate.js
+#: app/blocks/reports/types/verifyRate/verifyRateWidget.js
+msgid "Reopened"
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Reopened distribution"
+msgstr ""
+
+#: app/blocks/widgets/report/report.js
+msgid "Report"
+msgstr ""
+
+#: app/blocks/reports/edit/name.html
+msgid "Report name"
+msgstr ""
+
+#: app/blocks/reports/edit/range.js
+msgid "Report range is invalid"
+msgstr ""
+
+#: app/blocks/reports/edit/range.js
+msgid "Report range not set"
+msgstr ""
+
+#: app/blocks/widgets/report/report.js
+msgid "Report {{name}} not found. Probably it was removed"
+msgstr ""
+
+#: app/blocks/reports/types/fixRate/fixRate.js
+#: app/blocks/reports/types/fixRate/fixRateWidget.js
+msgid "Reported"
+msgstr ""
+
+#: app/blocks/issue-list/issue-list.html
+msgid "Reporter"
+msgstr ""
+
+#: app/blocks/menu/menu.html
+#: app/blocks/reports/sidebar/sidebar.html
+#: app/blocks/menu/menu.js
+#: app/../dashboard/app/blocks/menu/menu.html
+#: app/../dashboard/app/blocks/dashboard/dashboard.js
+msgid "Reports"
+msgstr ""
+
+#: app/blocks/reports/types/customDistribution/editCustomDistribution.js
+msgid "Reset"
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Resolution time (SLA management)"
+msgstr ""
+
+#: app/blocks/reports/types/resolveRate/resolveRate.js
+#: app/blocks/reports/types/resolveRate/resolveRateWidget.js
+msgid "Resolved"
+msgstr ""
+
+#: app/blocks/reports/types/resolutionTime/resolutionTime.js
+#: app/blocks/reports/types/resolutionTime/resolutionTimeWidget.js
+msgid "Resolved that day"
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Resolved vs New/Reopened rate"
+msgstr ""
+
+#: app/blocks/reports/edit/form.html
+#: app/blocks/reports/types/customDistribution/editCustomDistribution.js
+msgid "Save"
+msgstr ""
+
+#: app/blocks/reports/types/eventTransition/edit.html
+msgid "Select"
+msgstr ""
+
+#: app/blocks/reports/graphics/legend.js
+msgid "Select All"
+msgstr ""
+
+#: app/blocks/color-picker/colorPicker.js
+msgid "Select color"
+msgstr ""
+
+#: app/blocks/status-line/status-line.html
+msgid "Select issue:"
+msgstr ""
+
+#: app/blocks/reports/edit/addProject.html
+#: app/blocks/reports/edit/context-selector/contextSelector.html
+msgid "Select project"
+msgstr ""
+
+#: app/blocks/reports/graphics/color-select.html
+msgid "Select visible colors"
+msgstr ""
+
+#: app/blocks/reports/types/customDistribution/editQueries.html
+msgid "Settings"
+msgstr ""
+
+#: app/blocks/reports/sidebar/sidebar.js
+msgid "Shared with you"
+msgstr ""
+
+#: app/blocks/reports/types/averageAge/averageAge.js
+msgid "Shifted to another state"
+msgstr ""
+
+#: app/blocks/reports/edit/groups/reportGroups.html
+msgid "Show examples"
+msgstr ""
+
+#: app/blocks/status-line/status-line.html
+msgid "Show issue:"
+msgstr ""
+
+#: app/blocks/status-line/status-line.html
+msgid "Show preview:"
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Shows fixed issues vs reported issues for each day during a certain time period, in one or more projects."
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Shows how issues are distributed at the moment by state and assignee, priority and subsystem or any two custom fields, inside one or more projects. Available as a bar chart or a matrix."
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Shows how issues are distributed at the moment by state, assignee, priority, type or any custom field, inside one or more projects. Available as a bar chart or a pie chart."
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Shows overall issue distribution for a set of projects. Each project is illustrated as a double bar, and each bar can be customized to show a certain field distribution."
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Shows resolved issues vs new and reopened issues for each day during a certain time period, in one or more projects."
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Shows the average time of issue lifecycle in certain state(s), for every day. Also shows moving min, max and average resolution time for a chosen moving period. In addition, it shows the number of issues that moved to complement state vs the number of issues remain in one of chosen state(s)."
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Shows the average, min and max time of issue lifecycle, for every day. Also shows moving min, max and average resolution time for a chosen moving period. In addition, it shows resolved vs still unresolved issues for every day. This report can work perfectly for SLA Management."
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Shows the distribution of issue states for a time period. Unlike the Agile board Cumulative flow, it may include several projects, iterations and a set of custom states."
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Shows the ideal progress vs. real progress. Unlike the Agile board Burndown, it’s not limited to a single sprint or Agile board."
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Shows the issues assigned to each user at the moment, for one or more projects. Available as a bar chart or a pie chart."
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Shows the number of reopened issues, grouped by assignee, priority or project during a certain period."
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Shows the number of verified issues, grouped by assignee (QA), priority, project or any enumeration field during a certain period."
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Shows the total number of issues at the moment, for any set of projects. Available as a bar chart or a pie chart."
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Shows the total spent time working on a project(s) or iteration(s) with the type of work done and original estimation. Can be grouped by the type of work done or by users."
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Shows verified issues vs reopened issues for each day during a certain time period, in one or more projects."
+msgstr ""
+
+#: app/blocks/error/404.html
+msgid "So, what's next?"
+msgstr ""
+
+#: app/scripts/resources/rest.js
+msgid "Something went wrong"
+msgstr ""
+
+#: app/blocks/reports/edit/xaxis.html
+#: app/blocks/reports/edit/yaxis.html
+msgid "Sort order"
+msgstr ""
+
+#: app/blocks/reports/edit/aggregation.js
+msgid "Sort presentation for {{id}} not  defined"
+msgstr ""
+
+#: app/blocks/status-line/status-line.html
+msgid "Space"
+msgstr ""
+
+#: app/blocks/reports/types/burndown/burndownDataLoader.js
+msgid "Spent time"
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "State Transition Reports"
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "State transition"
+msgstr ""
+
+#: app/blocks/reports/types/resolutionTime/resolutionTime.js
+#: app/blocks/reports/types/resolutionTime/resolutionTimeWidget.js
+msgid "Still unresolved"
+msgstr ""
+
+#: app/scripts/date-locale.js
+msgid "Su,Mo,Tu,We,Th,Fr,Sa"
+msgstr ""
+
+#: app/blocks/issue/issue-edit-form.html
+msgid "Submit"
+msgstr ""
+
+#: app/blocks/command-panel-new-issue/command-panel-new-issue.html
+#: app/blocks/command-panel/command-panel.html
+msgid "Summary"
+msgstr ""
+
+#: app/scripts/date-locale.js
+msgid "Sun,Mon,Tue,Wed,Thu,Fri,Sat"
+msgstr ""
+
+#: app/scripts/date-locale.js
+msgid "Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday"
+msgstr ""
+
+#: app/../dashboard/app/blocks/notes/markdown.html
+msgid "Syntax Help"
+msgstr ""
+
+#: app/../dashboard/app/blocks/resources/issues.js
+msgid "There are no projects to create an issue in"
+msgstr ""
+
+#: app/blocks/reports/types/averageAge/averageAge.html
+#: app/blocks/reports/types/customDistribution/customDistribution.html
+#: app/blocks/reports/types/eventTransition/eventTransition.html
+#: app/blocks/reports/types/fixRate/fixRate.html
+#: app/blocks/reports/types/flatDistribution/flatDistribution.html
+#: app/blocks/reports/types/issueDistribution/issueDistribution.html
+#: app/blocks/reports/types/issuesPerAssignee/issuesPerAssignee.html
+#: app/blocks/reports/types/issuesPerProject/issuesPerProject.html
+#: app/blocks/reports/types/reopenedDistribution/reopenedDistribution.html
+#: app/blocks/reports/types/resolutionTime/resolutionTime.html
+#: app/blocks/reports/types/resolveRate/resolveRate.html
+#: app/blocks/reports/types/time/time.html
+#: app/blocks/reports/types/verifiedDistribution/verifiedDistribution.html
+#: app/blocks/reports/types/verifyRate/verifyRate.html
+msgid "There is no data matching your request. Try changing <a href=\"\" ng-click=\"edit()\">the criteria</a>"
+msgstr ""
+
+#: app/blocks/reports/edit/range.js
+msgid "This month"
+msgstr ""
+
+#: app/blocks/reports/edit/range.js
+msgid "This week"
+msgstr ""
+
+#: app/blocks/reports/edit/range.js
+msgid "This year"
+msgstr ""
+
+#: app/blocks/reports/types/time/body.html
+msgid "Time Estimated"
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Time Management Reports"
+msgstr ""
+
+#: app/blocks/reports/types/time/body.html
+msgid "Time Spent"
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Time report"
+msgstr ""
+
+#: app/blocks/reports/types/time/widget.html
+msgid "Time spent"
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Timeline Reports"
+msgstr ""
+
+#: app/blocks/date-interval-input/date-interval-input.html
+msgid "To"
+msgstr ""
+
+#: app/scripts/date-locale.js
+msgid "Today"
+msgstr ""
+
+#: app/scripts/resources/rest.js
+msgid "Too big data or calculation took too long"
+msgstr ""
+
+#: app/blocks/reports/types/issueDistribution/body.html
+msgid "Too many cells"
+msgstr ""
+
+#: app/blocks/reports/charts/simpleBarsWidgetStaticChartTitle.html
+#: app/blocks/reports/types/issueDistribution/body.html
+#: app/blocks/reports/types/time/timeWidget.js
+msgid "Total"
+msgstr ""
+
+#: app/blocks/reports/types/time/body.html
+msgid "Total time spent:"
+msgstr ""
+
+#: app/blocks/reports/edit/noway.html
+msgid "Try contacting your system administrator to sort things out."
+msgstr ""
+
+#: app/blocks/reports/types/resolutionTime/windowSize.js
+msgid "Two weeks"
+msgstr ""
+
+#: app/blocks/reports/edit/customFieldPrototype.js
+msgid "Type"
+msgstr ""
+
+#: app/blocks/command-panel/command-panel.html
+#: app/blocks/reports/edit/context-query-input.html
+#: app/blocks/search-panel/search-query-panel.html
+#: app/blocks/widgets/issues/issues.html
+#: app/../dashboard/app/blocks/search-query-panel/search-query-panel.html
+msgid "Use ⇥ to complete first item"
+msgstr ""
+
+#: app/blocks/command-panel/command-panel.html
+#: app/blocks/reports/edit/context-query-input.html
+#: app/blocks/search-panel/search-query-panel.html
+#: app/blocks/widgets/issues/issues.html
+#: app/../dashboard/app/blocks/search-query-panel/search-query-panel.html
+msgid "Use ⏎ to complete selected item"
+msgstr ""
+
+#: app/blocks/reports/types/time/body.html
+#: app/blocks/menu/menu.js
+#: app/../dashboard/app/blocks/menu/menu.js
+msgid "Users"
+msgstr ""
+
+#: app/blocks/reports/types/averageAge/edit.html
+msgid "Values"
+msgstr ""
+
+#: app/blocks/reports/types/verifyRate/verifyRate.js
+#: app/blocks/reports/types/verifyRate/verifyRateWidget.js
+msgid "Verified"
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Verified distribution"
+msgstr ""
+
+#: app/blocks/reports/report.js
+msgid "Verified vs Reopened rate"
+msgstr ""
+
+#: app/blocks/reports/edit/sharingSettings.html
+msgid "Visible to"
+msgstr ""
+
+#: app/blocks/issue/issue-properties.html
+msgid "Voters"
+msgstr ""
+
+#: app/blocks/reports/types/title.html
+msgid "Waiting in queue"
+msgstr ""
+
+#: app/blocks/reports/charts/utils.js
+#: app/blocks/reports/edit/aggregation.js
+#: app/blocks/reports/types/resolutionTime/windowSize.js
+msgid "Week"
+msgstr ""
+
+#: app/../dashboard/app/blocks/dashboard/dashboard.js
+msgid "Welcome to your YouTrack Dashboard"
+msgstr ""
+
+#: app/blocks/menu/menu.js
+#: app/../dashboard/app/blocks/menu/menu.js
+msgid "Wiki help"
+msgstr ""
+
+#: app/scripts/date-locale.js
+msgid "Wk"
+msgstr ""
+
+#: app/blocks/reports/types/time/body.html
+msgid "Work Type"
+msgstr ""
+
+#: app/blocks/reports/types/issueDistribution/editIssueDistribution.js
+msgid "X axis"
+msgstr ""
+
+#: app/blocks/reports/charts/utils.js
+#: app/blocks/reports/edit/aggregation.js
+msgid "Year"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "You are about to delete the issue. This operation cannot be reversed. Are you sure?"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "You are about to delete {{items.length}} issue. This operation cannot be reversed. Are you sure?"
+msgid_plural "You are about to delete {{items.length}} issues. This operation cannot be reversed. Are you sure?"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/reports/report.js
+msgid "You do not have permission to create a report"
+msgstr ""
+
+#: app/blocks/widgets/report/report.js
+msgid "You don't have access to the report {{name}}"
+msgstr ""
+
+#: app/blocks/reports/edit/noway.html
+msgid "You don't have sufficient permissions to create a report"
+msgstr ""
+
+#: app/../dashboard/app/blocks/notes/markdown.js
+msgid "YouTrack server is unavailable. Please contact system administrator."
+msgstr ""
+
+#: app/blocks/reports/types/toolbar.html
+msgid "calculated"
+msgstr ""
+
+#: app/blocks/reports/types/toolbar.html
+msgid "calculating..."
+msgstr ""
+
+#: app/blocks/reports/types/customDistribution/editCustomDistribution.js
+msgid "created"
+msgstr ""
+
+#: app/blocks/issue/issue-pane-header.html
+msgid "created by"
+msgstr ""
+
+#: app/blocks/reports/charts/intervalReport.js
+#: app/blocks/reports/charts/intervalWidget.js
+msgid "d"
+msgstr ""
+
+#: app/blocks/reports/charts/intervalWidget.js
+msgid "days"
+msgstr ""
+
+#: app/blocks/reports/edit/groups/reportGroups.html
+msgid "example"
+msgstr ""
+
+#: app/blocks/reports/types/time/body.html
+msgid "group by"
+msgstr ""
+
+#: app/blocks/reports/charts/intervalReport.js
+#: app/blocks/reports/charts/intervalWidget.js
+msgid "h"
+msgstr ""
+
+#: app/blocks/reports/charts/intervalReport.js
+#: app/blocks/reports/charts/intervalWidget.js
+msgid "m"
+msgstr ""
+
+#: app/blocks/reports/types/customDistribution/customDistribution.js
+msgid "new issues"
+msgstr ""
+
+#: app/../dashboard/app/blocks/resources/issues.js
+msgid "new project"
+msgstr ""
+
+#: app/blocks/reports/edit/context-selector/contextSelector.html
+msgid "or the report will be created for All projects"
+msgstr ""
+
+#: app/blocks/reports/types/time/body.html
+msgid "out of {{report.reportData.estimation}}"
+msgstr ""
+
+#: app/blocks/reports/types/customDistribution/editCustomDistribution.js
+msgid "resolved date"
+msgstr ""
+
+#: app/blocks/reports/types/customDistribution/customDistribution.js
+msgid "resolved issues"
+msgstr ""
+
+#: app/blocks/reports/types/customDistribution/editCustomDistribution.js
+msgid "updated"
+msgstr ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "used in {{projects.length}} project"
+msgid_plural "used in {{projects.length}} projects"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/blocks/i18n/i18n__messages.js
+msgid "used in {{projects[0].name}}"
+msgstr ""
+
+#: app/blocks/reports/types/averageAge/averageAge.html
+#: app/blocks/reports/types/burndown/burndown.html
+#: app/blocks/reports/types/cumulativeFlow/cumulativeFlow.html
+#: app/blocks/reports/types/customDistribution/customDistribution.html
+#: app/blocks/reports/types/eventTransition/eventTransition.html
+#: app/blocks/reports/types/fixRate/fixRate.html
+#: app/blocks/reports/types/flatDistribution/flatDistribution.html
+#: app/blocks/reports/types/issueDistribution/issueDistribution.html
+#: app/blocks/reports/types/issuesPerAssignee/issuesPerAssignee.html
+#: app/blocks/reports/types/issuesPerProject/issuesPerProject.html
+#: app/blocks/reports/types/reopenedDistribution/reopenedDistribution.html
+#: app/blocks/reports/types/resolutionTime/resolutionTime.html
+#: app/blocks/reports/types/resolveRate/resolveRate.html
+#: app/blocks/reports/types/time/time.html
+#: app/blocks/reports/types/verifiedDistribution/verifiedDistribution.html
+#: app/blocks/reports/types/verifyRate/verifyRate.html
+msgid "{{ errorMessage }} Please try changing <a href=\"\" ng-click=\"edit()\">the criteria</a>."
+msgstr ""
+
+#: app/../dashboard/app/blocks/dashboard/dashboard.js
+msgid "— add as many reports as you need to keep track of your progress at a glance."
+msgstr ""
+
+#: app/../dashboard/app/blocks/dashboard/dashboard.js
+msgid "— add your list of tasks, current sprint issues, critical issues or any kind of issues list."
+msgstr ""
+
+#: app/../dashboard/app/blocks/dashboard/dashboard.js
+msgid "— quickly add simple reminders, genius ideas — just as you do with sticky notes."
+msgstr ""
+
+
+
+#: app/blocks/widgets/dashboard.js
+msgid "Are you sure you want to remove widget?"
+msgstr ""
+
+#: app/blocks/widgets/widget.html
+msgid "Cancel"
+msgstr ""
+
+#: app/blocks/widgets/widget.js
+msgid "Loading..."
+msgstr ""
+
+#: app/blocks/widgets/markdown/markdown.js
+msgid "Notes"
+msgstr ""
+
+#: app/blocks/widgets/widget.html
+msgid "Remove"
+msgstr ""
+
+#: app/blocks/widgets/widget.html
+msgid "Save"
+msgstr ""
+
+#: app/blocks/widgets/select-hub-service.html
+msgid "Select service"
+msgstr ""
+
+#: app/blocks/widgets/markdown/markdown.html
+msgid "Syntax Help"
+msgstr ""
+
+#: app/blocks/widgets/widget.js
+msgid "Widget"
+msgstr ""
+
+#: app/blocks/widgets/widget.js
+msgid "error loading data"
+msgstr ""

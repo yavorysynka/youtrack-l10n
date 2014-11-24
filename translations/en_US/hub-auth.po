@@ -1,0 +1,235 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Hub-Auth\n"
+"Language: en\n"
+
+
+#: app/scripts/oauth-page/oauth.ng.html
+msgid "Accept"
+msgstr ""
+
+#: app/scripts/app.js
+msgid "Approve OAuth2 Request"
+msgstr ""
+
+#: app/scripts/oauth-page/oauth.ng.html
+msgid "Cancel"
+msgstr ""
+
+#: app/scripts/restore-page/restore.ng.html
+msgid "Change Password"
+msgstr ""
+
+#: app/scripts/register-page/register.ng.html
+#: app/scripts/restore-page/restore.ng.html
+msgid "Confirm Password"
+msgstr ""
+
+#: app/scripts/filters.js
+msgid "Create JetBrains Account"
+msgstr ""
+
+#: app/scripts/filters.js
+msgid "Create Ring Account"
+msgstr ""
+
+#: app/scripts/register-page/register.ng.html
+msgid "Display Name"
+msgstr ""
+
+#: app/scripts/app.js
+msgid "Doesn't match the pattern"
+msgstr ""
+
+#: app/scripts/register-page/register.ng.html
+#: app/scripts/restore-page/restore.ng.html
+msgid "Email"
+msgstr ""
+
+#: app/scripts/login-page/login-page.js
+msgid "Failed to log in as guest!"
+msgstr ""
+
+#: app/scripts/restore-page/restore-page.js
+msgid "Failed to send password restore email for unknown reason"
+msgstr ""
+
+#: app/scripts/app.js
+msgid "Is not the same"
+msgstr ""
+
+#: app/scripts/app.js
+msgid "Is too long"
+msgstr ""
+
+#: app/scripts/app.js
+msgid "Is too short"
+msgstr ""
+
+#: app/scripts/oauth-error-page/oauth-error-page.ng.html
+msgid "Learn more"
+msgstr ""
+
+#: app/scripts/login-page/login.ng.html
+#: app/scripts/register-page/register.ng.html
+#: app/scripts/restore-page/restore.ng.html
+msgid "Log in"
+msgstr ""
+
+#: app/scripts/filters.js
+msgid "Log in as guest"
+msgstr ""
+
+#: app/scripts/app.js
+msgid "Log in to Hub Central Authentication"
+msgstr ""
+
+#: app/scripts/login-page/login-page.js
+msgid "Log in to {{ settings.serviceName || 'Ring' }}"
+msgstr ""
+
+#: app/scripts/message-page/message.ng.html
+msgid "Log out"
+msgstr ""
+
+#: app/scripts/register-page/register.ng.html
+msgid "Login name"
+msgstr ""
+
+#: app/scripts/app.js
+msgid "Login successful"
+msgstr ""
+
+#: app/scripts/restore-page/restore.ng.html
+msgid "New Password"
+msgstr ""
+
+#: app/scripts/oauth-error-page/oauth-error-page.ng.html
+#: app/scripts/app.js
+msgid "OAuth 2.0 Error"
+msgstr ""
+
+#: app/scripts/header/header.ng.html
+msgid "One account for all JetBrains services"
+msgstr ""
+
+#: app/scripts/oauth-error-page/oauth-error-page.ng.html
+msgid "Oops! Something went wrong"
+msgstr ""
+
+#: app/scripts/register-page/register-page.js
+msgid "Oops! Something went wrong. Please contact your administrator!"
+msgstr ""
+
+#: app/scripts/login-page/login.ng.html
+#: app/scripts/register-page/register.ng.html
+msgid "Password"
+msgstr ""
+
+#: app/scripts/app.js
+msgid "Password Restore"
+msgstr ""
+
+#: app/scripts/register-page/register.ng.html
+msgid "Register and log in"
+msgstr ""
+
+#: app/scripts/login-page/login.ng.html
+#: app/scripts/register-page/register.ng.html
+msgid "Remember me"
+msgstr ""
+
+#: app/scripts/oauth-error-page/oauth-error-page.ng.html
+msgid "Request is invalid"
+msgstr ""
+
+#: app/scripts/filters.js
+msgid "Restore JetBrains Account password"
+msgstr ""
+
+#: app/scripts/restore-page/restore.ng.html
+msgid "Restore Password"
+msgstr ""
+
+#: app/scripts/filters.js
+msgid "Restore Ring password"
+msgstr ""
+
+#: app/scripts/login-page/login.ng.html
+msgid "Restore password"
+msgstr ""
+
+#: app/scripts/restore-page/restore.ng.html
+msgid "Return to Login Page"
+msgstr ""
+
+#: app/scripts/message-page/message.ng.html
+msgid "Service is attempting to authenticate you. You are logged into CAS as {{ username | fixPlus }}."
+msgstr ""
+
+#: app/scripts/oauth-error-page/oauth-error-page.ng.html
+msgid "Service is temporarily unavailable. Please try later"
+msgstr ""
+
+#: app/scripts/app.js
+msgid "Should be a valid URL"
+msgstr ""
+
+#: app/scripts/app.js
+msgid "Should be a valid email"
+msgstr ""
+
+#: app/scripts/login-page/login.ng.html
+#: app/scripts/app.js
+msgid "Sign up"
+msgstr ""
+
+#: app/scripts/oauth-error-page/oauth-error-page.ng.html
+msgid "The authorization server does not support obtaining an authorization entity using this method"
+msgstr ""
+
+#: app/scripts/oauth-error-page/oauth-error-page.ng.html
+msgid "The client is not authorized to request an authorization entity using this method"
+msgstr ""
+
+#: app/scripts/oauth-error-page/oauth-error-page.ng.html
+msgid "The requested scope is invalid"
+msgstr ""
+
+#: app/scripts/oauth-error-page/oauth-error-page.ng.html
+msgid "Unexpected error: {{ error }}"
+msgstr ""
+
+#: app/scripts/message-page/message.ng.html
+msgid "Unknown message type: {{ type }}"
+msgstr ""
+
+#: app/scripts/login-page/login.ng.html
+msgid "Username"
+msgstr ""
+
+#: app/scripts/app.js
+msgid "Value is required"
+msgstr ""
+
+#: app/scripts/restore-page/restore-page.js
+msgid "We've emailed you the instructions to restore your password"
+msgstr ""
+
+#: app/scripts/message-page/message.ng.html
+msgid "You are successfully logged into the Central Authentication Service as {{ username | fixPlus }} at {{ authDate | fixPlus }}"
+msgstr ""
+
+#: app/scripts/login-page/login.ng.html
+msgid "You can also log in with your credentials for"
+msgstr ""
+
+#: app/scripts/oauth-page/oauth.ng.html
+msgid "asks for full access to:"
+msgstr ""
+
+#: app/scripts/oauth-error-page/oauth-error-page.ng.html
+msgid "{{ !showInfo ? 'Show' : 'Hide' }} developer message"
+msgstr ""
