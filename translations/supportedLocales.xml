@@ -8,4 +8,8 @@
         <name>Polski (community)</name>
         <locale>pl_PL</locale>
     </localeEntry>
+	<localeEntry>
+        <name>Português Brasileiro (community)</name>
+        <locale>pt_BR</locale>
+    </localeEntry>
 </locales>

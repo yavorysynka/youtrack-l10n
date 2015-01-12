@@ -1,0 +1,1 @@
+<#include "mailbox_bad_user_email.ftl">
