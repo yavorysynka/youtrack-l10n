@@ -5,943 +5,360 @@ files:
     translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
     dest: /translations/en_US/notification_templates/attachments_panel.json
     type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
-  - source: /translations/en_US/notification_templates/attachments_panel.ftl
-    translation: /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
-    dest: /translations/en_US/notification_templates/attachments_panel.json
-    type: json
+  - source: /translations/en_US/notification_templates/backup_status_email.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/backup_status_email.ftl
+    dest: /translations/en_US/notification_templates/backup_status_email.json
+    type: json
+  - source: /translations/en_US/notification_templates/backup_status_jabber.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/backup_status_jabber.ftl
+    dest: /translations/en_US/notification_templates/backup_status_jabber.json
+    type: json
+  - source: /translations/en_US/notification_templates/backup_status_subject.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/backup_status_subject.ftl
+    dest: /translations/en_US/notification_templates/backup_status_subject.json
+    type: json
+  - source: /translations/en_US/notification_templates/cluster_digest_email.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/cluster_digest_email.ftl
+    dest: /translations/en_US/notification_templates/cluster_digest_email.json
+    type: json
+  - source: /translations/en_US/notification_templates/cluster_digest_jabber.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/cluster_digest_jabber.ftl
+    dest: /translations/en_US/notification_templates/cluster_digest_jabber.json
+    type: json
+  - source: /translations/en_US/notification_templates/cluster_digest_subject.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/cluster_digest_subject.ftl
+    dest: /translations/en_US/notification_templates/cluster_digest_subject.json
+    type: json
+  - source: /translations/en_US/notification_templates/commented_issue_email.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/commented_issue_email.ftl
+    dest: /translations/en_US/notification_templates/commented_issue_email.json
+    type: json
+  - source: /translations/en_US/notification_templates/commented_issue_jabber.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/commented_issue_jabber.ftl
+    dest: /translations/en_US/notification_templates/commented_issue_jabber.json
+    type: json
+  - source: /translations/en_US/notification_templates/commented_issue_subject.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/commented_issue_subject.ftl
+    dest: /translations/en_US/notification_templates/commented_issue_subject.json
+    type: json
+  - source: /translations/en_US/notification_templates/created_issue_email.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/created_issue_email.ftl
+    dest: /translations/en_US/notification_templates/created_issue_email.json
+    type: json
+  - source: /translations/en_US/notification_templates/created_issue_jabber.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/created_issue_jabber.ftl
+    dest: /translations/en_US/notification_templates/created_issue_jabber.json
+    type: json
+  - source: /translations/en_US/notification_templates/created_issue_subject.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/created_issue_subject.ftl
+    dest: /translations/en_US/notification_templates/created_issue_subject.json
+    type: json
+  - source: /translations/en_US/notification_templates/default_subject.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/default_subject.ftl
+    dest: /translations/en_US/notification_templates/default_subject.json
+    type: json
+  - source: /translations/en_US/notification_templates/digest_overview_email.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/digest_overview_email.ftl
+    dest: /translations/en_US/notification_templates/digest_overview_email.json
+    type: json
+  - source: /translations/en_US/notification_templates/digest_overview_jabber.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/digest_overview_jabber.ftl
+    dest: /translations/en_US/notification_templates/digest_overview_jabber.json
+    type: json
+  - source: /translations/en_US/notification_templates/event_attachments.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/event_attachments.ftl
+    dest: /translations/en_US/notification_templates/event_attachments.json
+    type: json
+  - source: /translations/en_US/notification_templates/event_comment.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/event_comment.ftl
+    dest: /translations/en_US/notification_templates/event_comment.json
+    type: json
+  - source: /translations/en_US/notification_templates/event_default_change.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/event_default_change.ftl
+    dest: /translations/en_US/notification_templates/event_default_change.json
+    type: json
+  - source: /translations/en_US/notification_templates/event_links.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/event_links.ftl
+    dest: /translations/en_US/notification_templates/event_links.json
+    type: json
+  - source: /translations/en_US/notification_templates/event_new_issue.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/event_new_issue.ftl
+    dest: /translations/en_US/notification_templates/event_new_issue.json
+    type: json
+  - source: /translations/en_US/notification_templates/event_resolved.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/event_resolved.ftl
+    dest: /translations/en_US/notification_templates/event_resolved.json
+    type: json
+  - source: /translations/en_US/notification_templates/event_tags.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/event_tags.ftl
+    dest: /translations/en_US/notification_templates/event_tags.json
+    type: json
+  - source: /translations/en_US/notification_templates/event_text_change.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/event_text_change.ftl
+    dest: /translations/en_US/notification_templates/event_text_change.json
+    type: json
+  - source: /translations/en_US/notification_templates/event_voters.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/event_voters.ftl
+    dest: /translations/en_US/notification_templates/event_voters.json
+    type: json
+  - source: /translations/en_US/notification_templates/event_work_item.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/event_work_item.ftl
+    dest: /translations/en_US/notification_templates/event_work_item.json
+    type: json
+  - source: /translations/en_US/notification_templates/events.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/events.ftl
+    dest: /translations/en_US/notification_templates/events.json
+    type: json
+  - source: /translations/en_US/notification_templates/fields_panel.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/fields_panel.ftl
+    dest: /translations/en_US/notification_templates/fields_panel.json
+    type: json
+  - source: /translations/en_US/notification_templates/footer.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/footer.ftl
+    dest: /translations/en_US/notification_templates/footer.json
+    type: json
+  - source: /translations/en_US/notification_templates/import_status_email.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/import_status_email.ftl
+    dest: /translations/en_US/notification_templates/import_status_email.json
+    type: json
+  - source: /translations/en_US/notification_templates/import_status_jabber.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/import_status_jabber.ftl
+    dest: /translations/en_US/notification_templates/import_status_jabber.json
+    type: json
+  - source: /translations/en_US/notification_templates/import_status_subject.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/import_status_subject.ftl
+    dest: /translations/en_US/notification_templates/import_status_subject.json
+    type: json
+  - source: /translations/en_US/notification_templates/issue.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/issue.ftl
+    dest: /translations/en_US/notification_templates/issue.json
+    type: json
+  - source: /translations/en_US/notification_templates/issue_change.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/issue_change.ftl
+    dest: /translations/en_US/notification_templates/issue_change.json
+    type: json
+  - source: /translations/en_US/notification_templates/issue_comment.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/issue_comment.ftl
+    dest: /translations/en_US/notification_templates/issue_comment.json
+    type: json
+  - source: /translations/en_US/notification_templates/issue_digest_email.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/issue_digest_email.ftl
+    dest: /translations/en_US/notification_templates/issue_digest_email.json
+    type: json
+  - source: /translations/en_US/notification_templates/issue_digest_jabber.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/issue_digest_jabber.ftl
+    dest: /translations/en_US/notification_templates/issue_digest_jabber.json
+    type: json
+  - source: /translations/en_US/notification_templates/issue_digest_subject.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/issue_digest_subject.ftl
+    dest: /translations/en_US/notification_templates/issue_digest_subject.json
+    type: json
+  - source: /translations/en_US/notification_templates/issue_full_header.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/issue_full_header.ftl
+    dest: /translations/en_US/notification_templates/issue_full_header.json
+    type: json
+  - source: /translations/en_US/notification_templates/issue_header.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/issue_header.ftl
+    dest: /translations/en_US/notification_templates/issue_header.json
+    type: json
+  - source: /translations/en_US/notification_templates/issue_id_summary.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/issue_id_summary.ftl
+    dest: /translations/en_US/notification_templates/issue_id_summary.json
+    type: json
+  - source: /translations/en_US/notification_templates/issue_short_header.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/issue_short_header.ftl
+    dest: /translations/en_US/notification_templates/issue_short_header.json
+    type: json
+  - source: /translations/en_US/notification_templates/issue_star.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/issue_star.ftl
+    dest: /translations/en_US/notification_templates/issue_star.json
+    type: json
+  - source: /translations/en_US/notification_templates/issue_tag_email.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/issue_tag_email.ftl
+    dest: /translations/en_US/notification_templates/issue_tag_email.json
+    type: json
+  - source: /translations/en_US/notification_templates/issue_tag_jabber.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/issue_tag_jabber.ftl
+    dest: /translations/en_US/notification_templates/issue_tag_jabber.json
+    type: json
+  - source: /translations/en_US/notification_templates/issue_tag_subject.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/issue_tag_subject.ftl
+    dest: /translations/en_US/notification_templates/issue_tag_subject.json
+    type: json
+  - source: /translations/en_US/notification_templates/links_panel.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/links_panel.ftl
+    dest: /translations/en_US/notification_templates/links_panel.json
+    type: json
+  - source: /translations/en_US/notification_templates/mailbox_bad_command_email.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/mailbox_bad_command_email.ftl
+    dest: /translations/en_US/notification_templates/mailbox_bad_command_email.json
+    type: json
+  - source: /translations/en_US/notification_templates/mailbox_bad_command_jabber.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/mailbox_bad_command_jabber.ftl
+    dest: /translations/en_US/notification_templates/mailbox_bad_command_jabber.json
+    type: json
+  - source: /translations/en_US/notification_templates/mailbox_bad_command_subject.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/mailbox_bad_command_subject.ftl
+    dest: /translations/en_US/notification_templates/mailbox_bad_command_subject.json
+    type: json
+  - source: /translations/en_US/notification_templates/mailbox_bad_cron_email.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/mailbox_bad_cron_email.ftl
+    dest: /translations/en_US/notification_templates/mailbox_bad_cron_email.json
+    type: json
+  - source: /translations/en_US/notification_templates/mailbox_bad_cron_jabber.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/mailbox_bad_cron_jabber.ftl
+    dest: /translations/en_US/notification_templates/mailbox_bad_cron_jabber.json
+    type: json
+  - source: /translations/en_US/notification_templates/mailbox_bad_cron_subject.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/mailbox_bad_cron_subject.ftl
+    dest: /translations/en_US/notification_templates/mailbox_bad_cron_subject.json
+    type: json
+  - source: /translations/en_US/notification_templates/mailbox_bad_user_email.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/mailbox_bad_user_email.ftl
+    dest: /translations/en_US/notification_templates/mailbox_bad_user_email.json
+    type: json
+  - source: /translations/en_US/notification_templates/mailbox_bad_user_jabber.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/mailbox_bad_user_jabber.ftl
+    dest: /translations/en_US/notification_templates/mailbox_bad_user_jabber.json
+    type: json
+  - source: /translations/en_US/notification_templates/mailbox_bad_user_subject.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/mailbox_bad_user_subject.ftl
+    dest: /translations/en_US/notification_templates/mailbox_bad_user_subject.json
+    type: json
+  - source: /translations/en_US/notification_templates/mailbox_failure_footer.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/mailbox_failure_footer.ftl
+    dest: /translations/en_US/notification_templates/mailbox_failure_footer.json
+    type: json
+  - source: /translations/en_US/notification_templates/mailbox_failure_header.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/mailbox_failure_header.ftl
+    dest: /translations/en_US/notification_templates/mailbox_failure_header.json
+    type: json
+  - source: /translations/en_US/notification_templates/mailbox_hello.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/mailbox_hello.ftl
+    dest: /translations/en_US/notification_templates/mailbox_hello.json
+    type: json
+  - source: /translations/en_US/notification_templates/mailbox_new_account_info.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/mailbox_new_account_info.ftl
+    dest: /translations/en_US/notification_templates/mailbox_new_account_info.json
+    type: json
+  - source: /translations/en_US/notification_templates/mailbox_quoted_message_text.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/mailbox_quoted_message_text.ftl
+    dest: /translations/en_US/notification_templates/mailbox_quoted_message_text.json
+    type: json
+  - source: /translations/en_US/notification_templates/mailbox_rule_maintainer.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/mailbox_rule_maintainer.ftl
+    dest: /translations/en_US/notification_templates/mailbox_rule_maintainer.json
+    type: json
+  - source: /translations/en_US/notification_templates/mailbox_submitted_comment_email.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/mailbox_submitted_comment_email.ftl
+    dest: /translations/en_US/notification_templates/mailbox_submitted_comment_email.json
+    type: json
+  - source: /translations/en_US/notification_templates/mailbox_submitted_comment_jabber.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/mailbox_submitted_comment_jabber.ftl
+    dest: /translations/en_US/notification_templates/mailbox_submitted_comment_jabber.json
+    type: json
+  - source: /translations/en_US/notification_templates/mailbox_submitted_comment_subject.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/mailbox_submitted_comment_subject.ftl
+    dest: /translations/en_US/notification_templates/mailbox_submitted_comment_subject.json
+    type: json
+  - source: /translations/en_US/notification_templates/mailbox_submitted_issue_email.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/mailbox_submitted_issue_email.ftl
+    dest: /translations/en_US/notification_templates/mailbox_submitted_issue_email.json
+    type: json
+  - source: /translations/en_US/notification_templates/mailbox_submitted_issue_jabber.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/mailbox_submitted_issue_jabber.ftl
+    dest: /translations/en_US/notification_templates/mailbox_submitted_issue_jabber.json
+    type: json
+  - source: /translations/en_US/notification_templates/mailbox_submitted_issue_subject.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/mailbox_submitted_issue_subject.ftl
+    dest: /translations/en_US/notification_templates/mailbox_submitted_issue_subject.json
+    type: json
+  - source: /translations/en_US/notification_templates/noticed_issue_email.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/noticed_issue_email.ftl
+    dest: /translations/en_US/notification_templates/noticed_issue_email.json
+    type: json
+  - source: /translations/en_US/notification_templates/noticed_issue_jabber.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/noticed_issue_jabber.ftl
+    dest: /translations/en_US/notification_templates/noticed_issue_jabber.json
+    type: json
+  - source: /translations/en_US/notification_templates/noticed_issue_subject.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/noticed_issue_subject.ftl
+    dest: /translations/en_US/notification_templates/noticed_issue_subject.json
+    type: json
+  - source: /translations/en_US/notification_templates/reason_email.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/reason_email.ftl
+    dest: /translations/en_US/notification_templates/reason_email.json
+    type: json
+  - source: /translations/en_US/notification_templates/reason_jabber.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/reason_jabber.ftl
+    dest: /translations/en_US/notification_templates/reason_jabber.json
+    type: json
+  - source: /translations/en_US/notification_templates/styles.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/styles.ftl
+    dest: /translations/en_US/notification_templates/styles.json
+    type: json
+  - source: /translations/en_US/notification_templates/tagged_issue_email.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/tagged_issue_email.ftl
+    dest: /translations/en_US/notification_templates/tagged_issue_email.json
+    type: json
+  - source: /translations/en_US/notification_templates/tagged_issue_jabber.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/tagged_issue_jabber.ftl
+    dest: /translations/en_US/notification_templates/tagged_issue_jabber.json
+    type: json
+  - source: /translations/en_US/notification_templates/tagged_issue_subject.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/tagged_issue_subject.ftl
+    dest: /translations/en_US/notification_templates/tagged_issue_subject.json
+    type: json
+  - source: /translations/en_US/notification_templates/tags_panel.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/tags_panel.ftl
+    dest: /translations/en_US/notification_templates/tags_panel.json
+    type: json
+  - source: /translations/en_US/notification_templates/test_message_email.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/test_message_email.ftl
+    dest: /translations/en_US/notification_templates/test_message_email.json
+    type: json
+  - source: /translations/en_US/notification_templates/test_message_jabber.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/test_message_jabber.ftl
+    dest: /translations/en_US/notification_templates/test_message_jabber.json
+    type: json
+  - source: /translations/en_US/notification_templates/test_message_subject.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/test_message_subject.ftl
+    dest: /translations/en_US/notification_templates/test_message_subject.json
+    type: json
+  - source: /translations/en_US/notification_templates/unresolved_issue_email.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/unresolved_issue_email.ftl
+    dest: /translations/en_US/notification_templates/unresolved_issue_email.json
+    type: json
+  - source: /translations/en_US/notification_templates/unresolved_issue_email.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/unresolved_issue_email.ftl
+    dest: /translations/en_US/notification_templates/unresolved_issue_email.json
+    type: json
+  - source: /translations/en_US/notification_templates/unresolved_issue_email.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/unresolved_issue_email.ftl
+    dest: /translations/en_US/notification_templates/unresolved_issue_email.json
+    type: json
+  - source: /translations/en_US/notification_templates/unresolved_issue_email.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/unresolved_issue_email.ftl
+    dest: /translations/en_US/notification_templates/unresolved_issue_email.json
+    type: json
+  - source: /translations/en_US/notification_templates/updated_issue_jabber.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/updated_issue_jabber.ftl
+    dest: /translations/en_US/notification_templates/updated_issue_jabber.json
+    type: json
+  - source: /translations/en_US/notification_templates/updated_issue_subject.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/updated_issue_subject.ftl
+    dest: /translations/en_US/notification_templates/updated_issue_subject.json
+    type: json
+  - source: /translations/en_US/notification_templates/voted_issue_email.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/voted_issue_email.ftl
+    dest: /translations/en_US/notification_templates/voted_issue_email.json
+    type: json
+  - source: /translations/en_US/notification_templates/voted_issue_jabber.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/voted_issue_jabber.ftl
+    dest: /translations/en_US/notification_templates/voted_issue_jabber.json
+    type: json
+  - source: /translations/en_US/notification_templates/voted_issue_subject.ftl
+    translation: /translations/%locale_with_underscore%/notification_templates/voted_issue_subject.ftl
+    dest: /translations/en_US/notification_templates/voted_issue_subject.json
+    type: json
+ 
