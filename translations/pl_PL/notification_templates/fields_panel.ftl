@@ -4,24 +4,26 @@
         <#list Utils.getCustomFields(issue) as field>
             <tr>
                 <td style="vertical-align: top;
-                           padding: 5px;
-                           margin-right: 10px;
-                           text-align: right;">
-                    ${field.prototype.getNamePresentation()} :
+                           padding: 5px 5px 5px 0;
+                           padding-right: 10px;
+                           font-family: sans-serif;
+                           font-size: 13px;
+                           color: #000000;">
+                    ${field.prototype.getNamePresentation()}
                 </td>
                 <td style="vertical-align: top;
-                           padding: 5px;">
+                           padding: 5px;
+                           font-family: sans-serif;
+                           font-size: 13px;">
                     <#assign background = field.getBackgroundColor(issue)>
                     <#assign foreground = field.getForegroundColor(issue)>
-                    <div style="padding: 1px; font-size: 90%;
+                    <div style="padding: 2px 4px; font-size: 90%;
                             <#if background?has_content>
                                 background-color: ${background} !important;
-                            <#else>
-                                background-color: #F9F9FA;
                             </#if>">
                         <div style="word-wrap: break-word; overflow: hidden;
                                 <#if foreground?has_content>
-                                    foreground-color: ${foreground} !important;
+                                    color: ${foreground} !important;
                                 </#if>">
                             ${field.getValuePresentation(issue)}
                         </div>
