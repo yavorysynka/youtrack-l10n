@@ -1,0 +1,4 @@
+files:
+  - source: /translations/en_US/notification_templates/attachments_panel.ftl
+    translation: >-
+      /translations/%locale_with_underscore%/notification_templates/attachments_panel.ftl
