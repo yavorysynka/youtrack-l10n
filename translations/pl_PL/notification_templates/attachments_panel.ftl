@@ -6,7 +6,7 @@
                padding: 0 !important">
         <#list attachments as attachment>
             <li style="display: inline-block;
-                       font-size: 90%;
+                       font-size: 13px;
                        list-style: none;
                        padding: 0 !important;
                        margin: 0 !important;">
@@ -21,7 +21,7 @@
                         ${attachment.name}
                     </span>
                 </a>
-                <span style="color: #9EA1A5;">
+                <span style="color: #9EA1A5; font-size:11px;">
                     <#if attachment.size?has_content>
                         <#assign size = attachment.size>
                         <#if (size < 1024)>
