@@ -7,4 +7,4 @@
 <p>${issue.getId()} ${issue.summary}</p>
 <p>${Utils.getUrl(issue)}</p>
 <p>--------------------</p>
-<#include "reason_jabber.ftl">
+<p>${reason}</p>
