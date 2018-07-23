@@ -13,16 +13,15 @@
     <hr style = "height: 1px;
                  max-height: 1px;
                  border: 0;
-                 background: #d9d9d9;
-                 margin: 19px 0 15px;"/>
+                 background-color: #999999;
+                 margin-top: 1em;"/>
     <#include "fields_panel.ftl">
     <#if issue.comments?has_content>
         <div>
-            <hr style = "height: 1px;
-                         max-height: 1px;
-                         border: 0;
-                         background: #d9d9d9;
-                         margin: 19px 0 15px;"/>
+            <hr style="height: 1px;
+                       max-height: 1px;
+                       border: 0;
+                       background-color: #999999;"/>
             <#assign count = issue.comments?size>
             <#if count == 1>
                 <@l10n>1 comment</@l10n>
