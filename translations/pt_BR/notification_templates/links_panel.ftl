@@ -1,6 +1,5 @@
 <#ftl attributes={"description":"List of all linked issues sorted by the link name"}>
 <#escape x as x?html>
-    <#import "styles.ftl" as styles>
     <#if Utils.hasLinks(issue)>
     <ul style="margin: 1em 0 0 0 !important;
                padding: 0 !important;">
@@ -9,8 +8,9 @@
                        font-size: 90%;
                        list-style: none;
                        padding: 0!important;
-                       margin: 0!important;">
-                ${role}:
+                       margin: 0!important;
+                       color: #777777;">
+                ${role}
             </li>
             <#list Utils.getLinkedIssues(issue, role) as linked_issue>
                 <li style="display: inline-block;
@@ -21,11 +21,9 @@
                            margin-right: 5px!important;">
                     <a style="
                         <#if linked_issue.isResolved()>
-                            color: #676E75;
-                            text-decoration: line-through;
+                            color: #084b96; text-decoration: line-through;
                         <#else>
-                            color: #084b96;
-                            text-decoration: none;
+                            color: #676E75; text-decoration: none;
                         </#if>"
                        href="${Utils.getUrl(linked_issue)}">
                        ${linked_issue.getId()}
