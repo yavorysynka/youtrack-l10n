@@ -1,9 +1,10 @@
 <#escape x as x?html>
     <#include "mailbox_hello.ftl">
     <p>
+        <#assign parentIssue = comment.issue>
         <@l10n>
             From your message we automatically created <a href="${Utils.getCommentUrl(comment)}">a comment</a>
-            for the issue <a href="${Utils.getUrl(comment.issue)}">${comment.issue.getId()}</a>
+            for the issue <a href="${Utils.getUrl(parentIssue)}">${parentIssue.getId()}</a>
         </@l10n>
     </p>
     <#if newUser??>
